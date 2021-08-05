@@ -1,12 +1,12 @@
 ---
 title: Kei Nishihara
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: 2nd-year master's degree student at Yokohama National University
+avatar_filename: null
+bio: My research interests include evolutionary computation and swarm intelligence.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Evolutionary Computation
+  - Swarm Intelligence
+  - Adaptation
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,8 +41,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kei Nishihara received the B.Eng. from the Yokohama National University, Yokohama, Japan, in 2020. He is now a graduate school student, the Yokohama National University. His current research interests include algorithm adaptation in evolutionary computation. He belongs to the Evolutionary Intelligence Research Group (Nakata Lab), which deals with evolutionary rule-based machine learning and evolutionary computation.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
