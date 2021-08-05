@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: 1950s
 day_night: true
 font: ''
 font_size: L
@@ -20,40 +20,48 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: nishihara-kei-jv[at]ynu.jp
+phone: (+81)45 339 4139
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 79-5 Tokiwadai
+  city: Yokohama
+  region: Kanagawa
+  postcode: '240-8501'
+  country: Japan
+  country_code: JP
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '35.47422873722485'
+  longitude: '139.5897979032074'
+directions: Room 812, N6-2
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: DM Me
+  #   link: 'https://twitter.com/Twitter'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
+  # - icon: keybase
+  #   icon_pack: fab
+  #   name: Chat on Keybase
+  #   link: 'https://keybase.io/'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
+  - icon: graduation-cap
     icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Google Scholar
+    link: https://scholar.google.com/citations?user=uf63_XsAAAAJ
+  - icon: github
+    icon_pack: fab
+    name: GitHub
+    link: https://github.com/haranychan
 
 # Site header
 
@@ -77,7 +85,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+  - python
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
