@@ -1,6 +1,6 @@
 ---
 title: Kei Nishihara
-role: 2nd-year master's degree student
+role: 2nd-year Master's Degree Student
 avatar_filename: null
 bio: My research interests include evolutionary computation and swarm intelligence.
 interests:
@@ -29,7 +29,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+>This page is now ***Under Construction***.
 
-Kei NISHIHARA received B.Eng. from Yokohama National University, Yokohama, Japan, in 2020. He is now a graduate school student at Yokohama National University. His current research interests include algorithm adaptation in evolutionary computation. He belongs to the Evolutionary Intelligence Research Group ([Nakata Lab](http://www.nkt.ynu.ac.jp/)), which deals with evolutionary rule-based machine learning and evolutionary computation.
+Kei NISHIHARA received B.Eng. from Yokohama National University, Yokohama, Japan, in 2020. He is now a graduate school student at Yokohama National University. His current research interests include algorithm adaptation in evolutionary computation. He belongs to the Evolutionary Intelligence Research Group ([Nakata Lab](http://www.nkt.ynu.ac.jp/)), which deals with Evolutionary Rule-based Machine Learning (ERL or EML, especially LCS) and Evolutionary Computation.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
