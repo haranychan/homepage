@@ -42,3 +42,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+{{% callout note %}}
+You can see all the posts from [here](./post/).
+{{% /callout %}}

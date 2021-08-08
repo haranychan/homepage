@@ -93,7 +93,7 @@
 - id: date
   translation: 日付
 - id: last_updated
-  translation: 最終更新
+  translation: 最近の更新
 - id: event
   translation: イベント
 - id: location
