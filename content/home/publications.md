@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+# Activate this widget? true/false
+active: true
+
 # This file represents a page section.
 headless: true
 
@@ -38,5 +41,6 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+You can see all the publications from [here](./publication/).
+<!-- Quickly discover relevant content by [filtering publications](./publication/). -->
 {{% /callout %}}

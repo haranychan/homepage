@@ -33,8 +33,8 @@ authors:
 - 吳恩達
 
 tags:
-- Academic
-- 开源
+# - Academic
+# - 开源
 
 categories:
 - Demo
