@@ -32,7 +32,7 @@ item:
   date_start: "2020-03-31"
   organization: Tokyo Chapter, The Institute of Electrical Engineers of Japan (IEEJ)
   organization_url: "https://www.iee.jp/tokyo/"
-  certificate_url: "./assets/awards/certification_IEEJ.pdf"
+  certificate_url: "./certification/certification_IEEJ.pdf"
   description: ""
 
 - title: Student Award
@@ -41,7 +41,7 @@ item:
   date_start: "2020-03-24"
   organization: Alumni Association of the Department of Electrical Engineering and Computer Science, YNU
   organization_url: "https://ynu-dnj.alumnet.jp/"
-  certificate_url: "./assets/awards/certification_alumni.pdf"
+  certificate_url: "./certification/certification_alumni.pdf"
   description: ""
 
 - title: Undergraduate Academic Achievements Award
@@ -50,7 +50,7 @@ item:
   date_start: "2020-03-24"
   organization: Yokohama National University
   organization_url: "https://www.ynu.ac.jp/"
-  certificate_url: "./assets/awards/certification_B.pdf"
+  certificate_url: "./certification/certification_B.pdf"
   description: ""
 
 - title: FY2017 Fall Semester Academic Achievements Award
@@ -59,7 +59,7 @@ item:
   date_start: "2018-10-01"
   organization: Yokohama National University
   organization_url: "https://www.ynu.ac.jp/"
-  certificate_url: "./assets/awards/certification_2017a.pdf"
+  certificate_url: "./certification/certification_2017a.pdf"
   description: ""
 
 - title: FY2016 Spring Semester Academic Achievements Award
@@ -68,7 +68,7 @@ item:
   date_start: "2017-04-01"
   organization: Yokohama National University
   organization_url: "https://www.ynu.ac.jp/"
-  certificate_url: "./assets/awards/certification_2016s.pdf"
+  certificate_url: "./certification/certification_2016s.pdf"
   description: ""
 
 - title: Second Prize in Planning Division (Information Technology Service Center Director's Award) -- The 3rd YNU Apps Contest (YAC)

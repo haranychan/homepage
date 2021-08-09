@@ -68,7 +68,7 @@ item:
   date_start: "2018-04-01"
   organization: Fuji Seal Foundation
   organization_url: "https://www.fujiseal.or.jp/"
-  certificate_url: "./assets/awards/fujiseal_2018.pdf"
+  certificate_url: "./certification/fujiseal_2018.pdf"
   description: "You can find me in most of the photos on [this page](https://www.fujiseal.or.jp/business/index.html) :)."
 
   

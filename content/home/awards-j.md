@@ -32,7 +32,7 @@ item:
   date_start: "2020-03-31"
   organization: 電気学会東京支部
   organization_url: "https://www.iee.jp/tokyo/"
-  certificate_url: "./assets/awards/certification_IEEJ.pdf"
+  certificate_url: "./certification/certification_IEEJ.pdf"
   description: ""
 
 - title: 学生表彰
@@ -41,7 +41,7 @@ item:
   date_start: "2020-03-24"
   organization: 横浜電子情報工学会
   organization_url: "https://ynu-dnj.alumnet.jp/"
-  certificate_url: "./assets/awards/certification_alumni.pdf"
+  certificate_url: "./certification/certification_alumni.pdf"
   description: ""
 
 - title: 学部総成績表彰
@@ -50,7 +50,7 @@ item:
   date_start: "2020-03-24"
   organization: 横浜国立大学
   organization_url: "https://www.ynu.ac.jp/"
-  certificate_url: "./assets/awards/certification_B.pdf"
+  certificate_url: "./certification/certification_B.pdf"
   description: ""
 
 - title: 2017年度 秋学期 学期成績表彰
@@ -59,7 +59,7 @@ item:
   date_start: "2018-10-01"
   organization: 横浜国立大学
   organization_url: "https://www.ynu.ac.jp/"
-  certificate_url: "./assets/awards/certification_2017a.pdf"
+  certificate_url: "./certification/certification_2017a.pdf"
   description: ""
 
 - title: 2016年度 春学期 学期成績表彰
@@ -68,7 +68,7 @@ item:
   date_start: "2017-04-01"
   organization: 横浜国立大学
   organization_url: "https://www.ynu.ac.jp/"
-  certificate_url: "./assets/awards/certification_2016s.pdf"
+  certificate_url: "./certification/certification_2016s.pdf"
   description: ""
 
 - title: 第3回 横浜国立大学アプリコンテスト -- 企画部門 第2位(情報基盤センター長賞)

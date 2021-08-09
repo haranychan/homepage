@@ -68,7 +68,7 @@ item:
   date_start: "2018-04-01"
   organization: (公財) フジシール財団
   organization_url: "https://www.fujiseal.or.jp/"
-  certificate_url: "./assets/awards/fujiseal_2018.pdf"
+  certificate_url: "./certification/fujiseal_2018.pdf"
   description: "[こちらのページ](https://www.fujiseal.or.jp/business/index.html)のほとんどに私が写っています…"
 
   
