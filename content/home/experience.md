@@ -40,7 +40,7 @@ experience:
         Master Thesis: 
         
   - title: Undergraduate Student
-    company: YNU College of Engineering Science, Japan
+    company: YNU College of Engineering Science
     company_url: 'https://www.es.ynu.ac.jp/'
     company_logo: org-BEng
     location: Yokohama, Japan
