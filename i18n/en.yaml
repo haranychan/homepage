@@ -64,7 +64,7 @@
   translation: PDF
 
 - id: btn_cite
-  translation: Cite
+  translation: Cite (BibTeX)
 
 - id: btn_slides
   translation: Slides
@@ -175,10 +175,10 @@
   translation: Uncategorized
 
 - id: pub_conf
-  translation: Conference paper
+  translation: Refereed International Conference Paper
 
 - id: pub_journal
-  translation: Journal article
+  translation: Refereed Journal Paper
 
 - id: pub_preprint
   translation: Preprint
@@ -190,13 +190,16 @@
   translation: Book
 
 - id: pub_book_section
-  translation: Book section
+  translation: Book Section
 
 - id: pub_thesis
   translation: Thesis
 
 - id: pub_patent
   translation: Patent
+
+- id: pub_notrefconf
+  translation: Not refereed Domestic Conference Paper
 
 # Project details
 
@@ -262,5 +265,5 @@
 # Published with
 
 - id: published_with
-  translation: . {wowchemy}{repo_link}.{/repo_link}
-  # translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
+  # translation: . {wowchemy}{repo_link}.{/repo_link}
+  translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.

@@ -37,7 +37,7 @@
 - id: btn_pdf
   translation: PDF
 - id: btn_cite
-  translation: 引用
+  translation: 引用 (BibTeX)
 - id: btn_slides
   translation: スライド
 - id: btn_video
@@ -57,7 +57,7 @@
 - id: btn_download
   translation: ダウンロード
 - id: interests
-  translation: 興味
+  translation: 研究における興味
 - id: education
   translation: 学歴
 - id: user_profile_latest
@@ -99,23 +99,25 @@
 - id: location
   translation: 場所
 - id: pub_uncat
-  translation: Uncategorized
+  translation: 未分類
 - id: pub_conf
-  translation: Conference paper
+  translation: 国際会議(査読あり)
 - id: pub_journal
-  translation: Journal article
+  translation: 論文誌(査読あり)
 - id: pub_preprint
-  translation: Preprint
+  translation: プレプリント
 - id: pub_report
-  translation: Report
+  translation: 研究報告
 - id: pub_book
-  translation: Book
+  translation: 書籍
 - id: pub_book_section
-  translation: Book section
+  translation: 論文
 - id: pub_thesis
-  translation: Thesis
+  translation: 学位論文
 - id: pub_patent
-  translation: Patent
+  translation: 特許
+- id: pub_notrefconf
+  translation: 国内会議(査読なし)
 - id: open_project_site
   translation: プロジェクトのサイトへ
 - id: posts
@@ -151,4 +153,4 @@
 - id: cookie_learn
   translation: 詳細を見る
 - id: published_with
-  translation: . {wowchemy}{repo_link}.{/repo_link}
+  translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.

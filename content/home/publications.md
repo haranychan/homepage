@@ -41,6 +41,6 @@ design:
 ---
 
 {{% callout note %}}
-You can see all the publications from [here](./publication/).
+You can see all the publications and quickly discover relevant content [here](./publication/).
 <!-- Quickly discover relevant content by [filtering publications](./publication/). -->
 {{% /callout %}}
