@@ -45,6 +45,6 @@ Today, I'm happy to announce that my new personal website has been up 🎉
 
 This site is mainly about my research, but sometimes about my hobbies.
 
-For now, I have posted [Publications](../../publication), [Awards](../../#awards), and [Grants](../../#grants) as well as [Bio at home](https://kei-nishihara.netlify.app/), please check it out!
+For now, I have posted [Publications](/publication/), [Awards](/#awards), and [Grants & Scholarships](/#grants) as well as [Bio at home](/), please check them out!
 
 I will continue to update this page regularly, so please stay tuned!

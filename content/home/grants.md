@@ -13,7 +13,7 @@ headless: true
 weight: 105
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Grants & Scholarship'
+title: 'Grants & Scholarships'
 subtitle: I sincerely would like to give my gratitude for your kind support.
 
 # Date format
