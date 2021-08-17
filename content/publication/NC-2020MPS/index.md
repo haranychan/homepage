@@ -82,7 +82,7 @@ projects:
 slides: ""
 ---
 
-**Notice**
+### Notice
 
 - All materials on this page are author’s versions, not necessarily coincide with final published versions.
 - IPSJ issued the call for paper for this national conference in conjunction with [the TOM 14(3)](../j-2021tom/), a refereed journal paper.

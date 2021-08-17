@@ -79,7 +79,7 @@ projects:
 slides: ""
 ---
 
-**Notice**
+### Notice
 
 - All materials on this page are author’s versions, not necessarily coincide with final published versions.
 - IPSJ issued the call for paper of this journal in conjunction with [the 131st MPS](../nc-2020mps/), a national conference.

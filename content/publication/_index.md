@@ -1,5 +1,6 @@
 ---
 title: Publications
+subtitle: For japanese papers, "(in Japanese)" will be written at the end of contents.
 cms_exclude: true
 
 # View.
@@ -15,4 +16,6 @@ header:
   image: ""
 ---
 
+{{% callout note %}}
 All materials on this page are author’s versions, not necessarily coincide with final published versions.
+{{% /callout %}}
