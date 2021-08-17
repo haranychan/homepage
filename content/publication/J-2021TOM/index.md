@@ -21,16 +21,16 @@ doi: ""
 publishDate: "2021-08-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Refereed International Conference Paper; 
-# 2 = Refereed Journal Paper;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-# 9 = Not refereed Domestic Conference Paper
-publication_types: ["2"]
+# Legend: 0 = Uncategorized; 1 = Refereed Journal Paper;
+# 2 = Refereed International Conference Paper;
+# 3 = Not refereed National Conference Paper;
+# 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent; 9 = Preprint / Working Paper; 
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transactions on Mathematical Modeling and its Applications*"
-publication_short: "*Trans. Math. Model. Appl.* (in Japanese)"
+publication: "*Transactions on Mathematical Modeling and its Applications* (in Japanese)"
+publication_short: "*Trans. Math. Model. Appl. (TOM)* (in Japanese)"
 
 abstract: Self-adaptive differential evolution approaches (self-adaptive DEs) often suffer to boost their performances under a limited number of fitness evaluations, since they heavily rely on the trial-and-error process required to adapt algorithmic configurations. In order to enhance the performance in early generations, this paper presents a generalized prior-validation framework for algorithmic configurations, which can be applicable to major variants of self-adaptive DEs that adapt the scaling factor, the crossover rate, and/or the mutation/crossover strategies for each individual. Experimental results on benchmark problems show that the proposed method successfully boosts the performances of jDE, SaDE, and JADE. Thus, the proposed method reveals a possibility of self-adaptive DEs toward computationally-expensive optimization problems where self-adaptive DEs have had a difficulty.
 
@@ -43,9 +43,9 @@ tags: [Adaptive Differential Evolution, Prior-validation, Computationally Expens
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Link
+  url: http://id.nii.ac.jp/1001/00212125/
 
 url_pdf: ''
 url_code: ''
@@ -79,3 +79,7 @@ projects:
 slides: ""
 ---
 
+**Notice**
+
+- All materials on this page are author’s versions, not necessarily coincide with final published versions.
+- IPSJ issued the call for paper of this journal in conjunction with [the 131st MPS](../nc-2020mps/), a national conference.

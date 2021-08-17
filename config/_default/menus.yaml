@@ -17,8 +17,8 @@ main:
     url: '#events'
     weight: 70
   - name: Publications
-    url: '#featured'
-    weight: 90
+    url: '#publications'
+    weight: 75
   - name: Awards
     url: '#awards'
     weight: 100
