@@ -34,8 +34,8 @@ publishDate: "2021-08-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*情報処理学会論文誌「数理モデル化と応用」*"
-publication_short: "*情処論：TOM*"
+publication: "*情報処理学会論文誌「数理モデル化と応用」*, Vol. 14, No. 3, pp. 11--26"
+publication_short: "*情報処理学会論文誌（TOM）*, Vol. 14, No. 3, pp. 11--26"
 
 abstract: This paper proposes an automatic construction technique of transferable loading algorithms based on Cartesian Genetic Programming. The proposed method aims to construct the loading algorithm with a few hundred fitness evaluations by optimizing the execution order of rules to decide a type of multiple cardboard boxes and their loadable positions simultaneously. Experimental results show that auto-constructed loading algorithms can derive competitive performances to defined baselines under two hundred fitness evaluations on similar problems without any additional fitness evaluation.
 
@@ -86,5 +86,5 @@ slides: ""
 
 ### 参考
 
-- 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致するとは限りません．
+- 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致しない可能性があります．
 - 本ジャーナルは，国内会議である[第131回MPS研究会](../nc-2020mps-hrt/)と連動して募集されました．

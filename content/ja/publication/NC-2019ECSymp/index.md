@@ -1,5 +1,5 @@
 ---
-title: "Competitively Adaptive Algorithm Tuning inspired by Equilibrium Theory"
+title: "競争均衡原理に着想を得たメタヒューリスティクスの適応的アルゴリズム調整"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -28,8 +28,8 @@ publishDate: "2019-12-14T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*第13回進化計算シンポジウム*"
-publication_short: "*第13回進化計算シンポジウム*"
+publication: "*第13回進化計算シンポジウム講演論文集*, pp. 37--44"
+publication_short: "*第13回進化計算シンポジウム講演論文集*, pp. 37--44"
 
 abstract: 
 
@@ -81,4 +81,4 @@ slides: ""
 
 ### 参考
 
-- 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致するとは限りません．
+- 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致しない可能性があります．

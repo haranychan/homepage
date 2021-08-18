@@ -32,8 +32,8 @@ publishDate: "2020-12-19T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*第14回進化計算シンポジウム*"
-publication_short: "*第14回進化計算シンポジウム*"
+publication: "*第14回進化計算シンポジウム講演論文集*, pp. 227--234"
+publication_short: "*第14回進化計算シンポジウム講演論文集*, pp. 227--234"
 
 abstract: 
 
@@ -85,4 +85,4 @@ slides: ""
 
 ### 参考
 
-- 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致するとは限りません．
+- 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致しない可能性があります．

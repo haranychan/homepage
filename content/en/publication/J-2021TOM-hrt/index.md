@@ -35,8 +35,8 @@ publishDate: "2021-08-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transactions on Mathematical Modeling and its Applications* (in Japanese)"
-publication_short: "*Trans. Math. Model. Appl. (TOM)* (in Japanese)"
+publication: "*Transactions on Mathematical Modeling and its Applications*, Vol. 14, No. 3, pp. 11--26 (in Japanese)"
+publication_short: "*Trans. Math. Model. Appl. (TOM)*, Vol. 14, No. 3, pp. 11--26 (in Japanese)"
 
 abstract: This paper proposes an automatic construction technique of transferable loading algorithms based on Cartesian Genetic Programming. The proposed method aims to construct the loading algorithm with a few hundred fitness evaluations by optimizing the execution order of rules to decide a type of multiple cardboard boxes and their loadable positions simultaneously. Experimental results show that auto-constructed loading algorithms can derive competitive performances to defined baselines under two hundred fitness evaluations on similar problems without any additional fitness evaluation.
 

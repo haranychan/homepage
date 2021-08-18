@@ -29,8 +29,8 @@ publishDate: "2021-08-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transactions on Mathematical Modeling and its Applications* (in Japanese)"
-publication_short: "*Trans. Math. Model. Appl. (TOM)* (in Japanese)"
+publication: "*Transactions on Mathematical Modeling and its Applications*, Vol. 14, No. 3, pp. 51--67 (in Japanese)"
+publication_short: "*Trans. Math. Model. Appl. (TOM)*, Vol. 14, No. 3, pp. 51--67 (in Japanese)"
 
 abstract: Self-adaptive differential evolution approaches (self-adaptive DEs) often suffer to boost their performances under a limited number of fitness evaluations, since they heavily rely on the trial-and-error process required to adapt algorithmic configurations. In order to enhance the performance in early generations, this paper presents a generalized prior-validation framework for algorithmic configurations, which can be applicable to major variants of self-adaptive DEs that adapt the scaling factor, the crossover rate, and/or the mutation/crossover strategies for each individual. Experimental results on benchmark problems show that the proposed method successfully boosts the performances of jDE, SaDE, and JADE. Thus, the proposed method reveals a possibility of self-adaptive DEs toward computationally-expensive optimization problems where self-adaptive DEs have had a difficulty.
 

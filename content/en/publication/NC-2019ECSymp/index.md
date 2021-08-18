@@ -28,8 +28,8 @@ publishDate: "2019-12-14T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*JPNSEC Symposium on Evolutionary Computation* (in Japanese)"
-publication_short: "*Proc. Symp. Evol. Comput.* (in Japanese)"
+publication: "*JPNSEC Symposium on Evolutionary Computation*, pp. 37--44 (in Japanese)"
+publication_short: "*Proc. Symp. Evol. Comput.*, pp. 37--44 (in Japanese)"
 
 abstract: 
 

@@ -34,8 +34,8 @@ publishDate: "2020-12-17T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IPSJ SIG Mathematical Modeling and Problem Solving (MPS)* (in Japanese)"
-publication_short: "*Tech. Rep. Math. Model. Probl. Solving (MPS)* (in Japanese)"
+publication: "*IPSJ SIG Mathematical Modeling and Problem Solving (MPS)*, Vol. 2020, No. 10, pp. 1--6 (in Japanese)"
+publication_short: "*Tech. Rep. Math. Model. Probl. Solving (MPS)*, Vol. 2020, No. 10, pp. 1--6 (in Japanese)"
 
 abstract: 本論文では，定義された目的関数のもとで，Cartesian genetic programming（CGP）を用いた転移利用可能な積み付けアルゴリズムの自動生成技術を提案する．提案法では，積み付け候補から選択する基準として選択ルールを複数定義し，その実行順位を出力するモデルをCGP で構築する．類似問題へ転移利用するシミュレーション実験では，提案法がベースラインと同等の性能を導出できることを示す．これは，自動生成された積み付けアルゴリズムが，ヒトによる追加評価なしで，類似問題へ転移利用できる可能性を示す意義がある．
 

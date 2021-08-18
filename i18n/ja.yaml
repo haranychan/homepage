@@ -89,11 +89,11 @@
 - id: publication
   translation: 収録
 - id: publication_type
-  translation: 発表文献種別
+  translation: 文献種別
 - id: date
   translation: 発行年
 - id: last_updated
-  translation: 最近の更新
+  translation: 最終更新
 - id: event
   translation: イベント
 - id: location

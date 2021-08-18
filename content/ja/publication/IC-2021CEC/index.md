@@ -28,8 +28,8 @@ publishDate: "2021-06-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Congress on Evolutionary Computation (CEC)*"
-publication_short: "*Proc. IEEE Congr. Evol. Comput. (CEC)*"
+publication: "*IEEE Congress on Evolutionary Computation (CEC)*, pp. 161--168"
+publication_short: "*Proc. IEEE Congr. Evol. Comput. (CEC)*, pp. 161--168"
 
 abstract: Existing works have reported that adaptive differential evolution algorithms, i.e., adaptive DEs, improve the MOEA/D-DE algorithm, but this result is limited to small-scale multi-objective optimization problems. This paper compares four popular adaptive DEs on the MOEA/D-DE framework to evaluate their scalability to the number of decision variables and objectives. Specifically, we employ jDE, JADE, EPSDE, and SaDE in this paper. Our experimental results provide the following novel observations. MOEA/D-DE with JADE derives the best average rank on small-scale problems. However, the performances of MOEA/D-DE with JADE, EPSDE, and SaDE gradually degrade with the increase of the problem scale. In contrast, jDE stably improves the performance of MOEA/D-DE on large-scale problems employed in this paper (i.e., 11 objectives and 100 decision variables). Thus, we find a critical tradeoff among adaptive DEs in terms of the scalability of the MOEA/D-DE framework; a statistical adaption like JADE is suitable for small-scale problems, but a randomization adaptation like jDE is effective with the increase of the problem scale. Our results also suggest that parameter-only adaptation can be suitable for MOEA/D-DE regardless of the problem scale.
 
@@ -82,4 +82,4 @@ slides: ""
 
 ### 参考
 
-- 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致するとは限りません．
+- 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致しない可能性があります．
