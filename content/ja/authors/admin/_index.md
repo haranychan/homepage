@@ -11,12 +11,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=uf63_XsAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/haranychan
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=uf63_XsAAAAJ
 organizations:
   - name: 横浜国立大学
     url: https://www.ynu.ac.jp/
