@@ -5,17 +5,17 @@
 - id: on_this_page
   translation: On this page
 - id: back_to_top
-  translation: Back to top
+  translation: トップへ戻る
 - id: home
-  translation: Home
+  translation: ホーム
 - id: close
-  translation: Close
+  translation: 閉じる
 - id: languages
   translation: Languages
 - id: related
   translation: 関連項目
 - id: minute_read
-  translation: 分で読める
+  translation: min read
 - id: previous
   translation: 前へ
 - id: next
@@ -23,7 +23,7 @@
 - id: figure
   translation: '図 %d:'
 - id: edit_page
-  translation: Edit this page
+  translation: ページの修正
 - id: theme_selector
   translation: Display preferences
 - id: theme_light
@@ -37,7 +37,7 @@
 - id: btn_pdf
   translation: PDF
 - id: btn_cite
-  translation: 引用 (BibTeX)
+  translation: BibTeX
 - id: btn_slides
   translation: スライド
 - id: btn_video
@@ -57,7 +57,7 @@
 - id: btn_download
   translation: ダウンロード
 - id: interests
-  translation: 研究における興味
+  translation: 研究テーマ
 - id: education
   translation: 学歴
 - id: user_profile_latest
@@ -67,31 +67,31 @@
 - id: present
   translation: Present
 - id: more_pages
-  translation: See all
+  translation: 全て見る
 - id: more_posts
   translation: 投稿一覧
 - id: more_talks
-  translation: 登壇一覧
+  translation: イベント一覧
 - id: more_publications
   translation: 発表文献一覧
 - id: contact_name
-  translation: Name
+  translation: お名前
 - id: contact_email
-  translation: Email
+  translation: メールアドレス
 - id: contact_message
-  translation: Message
+  translation: メッセージ
 - id: contact_send
-  translation: Send
+  translation: 送信
 - id: book_appointment
-  translation: Book an appointment
+  translation: 予約
 - id: abstract
   translation: 概要
 - id: publication
   translation: 収録
 - id: publication_type
-  translation: タイプ
+  translation: 発表文献種別
 - id: date
-  translation: 日付
+  translation: 発行年
 - id: last_updated
   translation: 最近の更新
 - id: event
@@ -101,9 +101,9 @@
 - id: pub_uncat
   translation: 未分類
 - id: pub_conf
-  translation: 国際会議(査読あり)
+  translation: 国際会議（査読あり）
 - id: pub_journal
-  translation: 論文誌(査読あり)
+  translation: 論文誌（査読あり）
 - id: pub_preprint
   translation: プレプリント
 - id: pub_report
@@ -111,15 +111,15 @@
 - id: pub_book
   translation: 書籍
 - id: pub_book_section
-  translation: 論文
+  translation: 書籍収録論文
 - id: pub_thesis
   translation: 学位論文
 - id: pub_patent
   translation: 特許
 - id: pub_notrefconf
-  translation: 国内会議(査読なし)
+  translation: 国内会議（査読なし）
 - id: open_project_site
-  translation: プロジェクトのサイトへ
+  translation: プロジェクトページへ
 - id: posts
   translation: 投稿
 - id: publications
@@ -129,15 +129,15 @@
 - id: projects
   translation: プロジェクト
 - id: slides
-  translation: Slides
+  translation: スライド
 - id: authors
-  translation: Authors
+  translation: 著者
 - id: search
-  translation: Search
+  translation: 検索
 - id: search_placeholder
-  translation: 検索...
+  translation: キーワード...
 - id: search_results
-  translation: results found
+  translation: 件の検索結果
 - id: search_no_results
   translation: 結果が見つかりませんでした
 - id: search_common_queries
@@ -145,9 +145,9 @@
 - id: page_not_found
   translation: ページが見つかりませんでした
 - id: 404_recommendations
-  translation: あなたが探しているものはこれらの中にあるかもしれません
+  translation: お探しのものはこれらの中にあるかもしれません
 - id: cookie_message
-  translation: あなたが最高の体験を得るために、このウェブサイトはクッキーを使用します。
+  translation: 最高の体験をお届けするために、本サイトはクッキーを使用します。
 - id: cookie_dismiss
   translation: はい
 - id: cookie_learn

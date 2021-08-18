@@ -6,17 +6,199 @@
 en:
   languageCode: en
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+ja:
+  languageCode: ja
+  contentDir: content/ja
+  title: Kei Nishihara
+  menu:
+    main:
+      - name: ホーム
+        url: '#about'
+        weight: 20
+      - name: 投稿
+        url: '#posts'
+        weight: 60
+      # - name: Projects
+      #   url: '#projects'
+      #   weight: 65
+      # - name: Events
+      #   url: '#events'
+      #   weight: 70
+      - name: 発表文献
+        url: '#publications'
+        weight: 75
+      - name: 受賞
+        url: '#awards'
+        weight: 100
+      - name: 外部資金・奨学金
+        url: '#grants'
+        weight: 105
+      - name: お問い合せ
+        url: '#contact'
+        weight: 130
+  params:
+    # Appearance
+
+    theme: Forest
+    day_night: true
+    font: ''
+    font_size: M
+
+    # SEO
+
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: ''
+    twitter: ''
+
+    # Contact (edit or remove options as required)
+
+    # email: nishihara-kei-jv@ynu.jp
+    phone: 045 339 4139
+    address:
+      street: 保土ケ谷区 常盤台 79-5
+      city: 横浜市
+      region: 神奈川県
+      postcode: '〒240-8501'
+      country: Japan
+      country_code: JP
+    coordinates:
+      latitude: '35.47422873722485'
+      longitude: '139.5897979032074'
+    directions: 電子情報工学棟812号室
+    # office_hours:
+    #   - 'Monday 10:00 to 13:00'
+    #   - 'Wednesday 09:00 to 10:00'
+    # appointment_url: 'https://calendly.com'
+    contact_links:
+      # - icon: twitter
+      #   icon_pack: fab
+      #   name: DM Me
+      #   link: 'https://twitter.com/Twitter'
+      # - icon: skype
+      #   icon_pack: fab
+      #   name: Skype Me
+      #   link: 'skype:echo123?call'
+      # - icon: keybase
+      #   icon_pack: fab
+      #   name: Chat on Keybase
+      #   link: 'https://keybase.io/'
+      # - icon: comments
+      #   icon_pack: fas
+      #   name: Discuss on Forum
+      #   link: 'https://discourse.gohugo.io'
+      - icon: graduation-cap
+        icon_pack: fas
+        name: Google Scholar
+        link: https://scholar.google.com/citations?user=uf63_XsAAAAJ
+      - icon: github
+        icon_pack: fab
+        name: GitHub
+        link: https://github.com/haranychan
+
+    # Site header
+
+    main_menu:
+      enable: true
+      align: l
+      show_logo: true
+      show_language: false
+      show_day_night: true
+      show_search: true
+      highlight_active_link: true
+
+    # Localization
+
+    date_format: 'Jan 2, 2006'
+    time_format: '15:04'
+    address_format: ja
+
+    # Site features
+
+    highlight: true
+    highlight_languages:
+      - r
+      - python
+    math: true
+    diagram: false
+    privacy_pack: false
+    edit_page:
+      repo_url: ''
+      content_dir: ''
+      repo_branch: main
+      editable:
+        page: false
+        post: false
+        book: false
+    show_related:
+      book: true
+      page: false
+      post: true
+      project: true
+      publication: true
+      event: true
+    reading_time: true
+    section_pager: false
+    docs_section_pager: true
+    sharing: true
+    copyright_license:
+      enable: false
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+      notice: 'This work is licensed under {license}'
+    abstract_length: 135
+    plugins_js: []
+    avatar:
+      gravatar: false
+      shape: circle # circle
+    publications:
+      date_format: January 2006
+      citation_style: apa
+    projects:
+      post_view: 2
+      publication_view: 2
+      talk_view: 2
+    breadcrumb:
+      page_types:
+        book: true
+    comments:
+      provider: ''
+      commentable:
+        post: true
+        book: true
+        project: true
+        publication: true
+        event: true
+      disqus:
+        shortname: ''
+        show_count: true
+      commento:
+        url: ''
+    search:
+      provider: wowchemy
+      algolia:
+        app_id: ''
+        api_key: ''
+        index_name: ''
+        show_logo: false
+    map:
+      provider: ''
+      api_key: ''
+      zoom: 15
+    marketing:
+      google_analytics: 'G-0M94DDQN3W'
+      google_tag_manager: ''
+      google_site_verification: ''
+      baidu_site_verification: ''
+      baidu_tongji: ''
+    cms:
+      branch: master
+      local_backend: false
+    icon:
+      pack:
+        ai: true

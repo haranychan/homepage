@@ -22,7 +22,7 @@ main:
   - name: Awards
     url: '#awards'
     weight: 100
-  - name: Grants
+  - name: Grants & Scholarships
     url: '#grants'
     weight: 105
   - name: Contact
