@@ -155,7 +155,7 @@ ja:
     plugins_js: []
     avatar:
       gravatar: false
-      shape: circle # circle
+      shape: square # circle
     publications:
       date_format: January 2006
       citation_style: apa
@@ -187,7 +187,7 @@ ja:
         index_name: ''
         show_logo: false
     map:
-      provider: ''
+      provider: '1'
       api_key: ''
       zoom: 15
     marketing:

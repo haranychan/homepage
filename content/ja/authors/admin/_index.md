@@ -22,9 +22,9 @@ organizations:
     url: https://www.ynu.ac.jp/
 education:
   courses:
-    - course: 学士（工学）
+    - course: 学士 (工学)
       institution: 横浜国立大学 理工学部 数物・電子情報系学科
-      year: 　2020年
+      year: 2020年
 email: ""
 superuser: true
 highlight_name: true
