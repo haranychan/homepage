@@ -187,7 +187,7 @@ ja:
         index_name: ''
         show_logo: false
     map:
-      provider: google
+      provider: mapbox
       api_key: ''
       zoom: 15
     marketing:
