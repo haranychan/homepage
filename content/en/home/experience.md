@@ -53,6 +53,22 @@ experience:
 
         Graduation Thesis: "Competitive-Adaptive Algorithm-Tuning of Metaheuristics inspired by the Equilibrium Theory" (in Japanese, [PDF](./publication/GraduationThesis/paper.pdf))
 
+  - title: High School
+    company: Eiko Gakuen High School
+    company_url: 'https://ekh.jp/en/'
+    company_logo: org-HS
+    location: Kamakura (near station - Ofuna), Japan
+    date_start: '2012-04-01'
+    date_end: '2015-03-31'
+    description: |2-
+        Clubs I belonged to:
+        
+        - [Eiko Piano Circle](https://ameblo.jp/eikopianocircle/) / [former page](http://eikopianocircle.ninja-web.net/) <br> &nbsp; We performed and managed concerts three times a year, including the school festival, and organized a new seminar by inviting outside lecturer. As a member of Bible class, I accompanied the organ at Mass.
+        
+        - [Bible class](https://ekh.jp/life/shuukyou/index.html) <br> &nbsp; It was a precious time of reading and being taught the Bible, as well as discussing its contents and other trivial matters with my fellow students. I am grateful for the opportunity to work in an atmosphere that was not at all formal, and to have had many experiences such as pilgrimages to Tokyo and Nagasaki (half of which were sightseeing!) and volunteering. 
+
+        - [Soccer club](https://www.eiko-soccer.net/) <br> &nbsp; in junior high (Eiko Gakuen is a combined junior and senior high school). It was a perfect balance of self-discipline and pure enjoyment of soccer.
+
 design:
   columns: '2'
 ---
