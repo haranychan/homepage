@@ -25,7 +25,7 @@ featured: false
 image:
   caption: ""
   focal_point: ""
-  placement: 2
+  placement: 0
   preview_only: false
 
 authors:
@@ -37,7 +37,7 @@ categories:
 - Operation
 ---
 
-## Message
+### Message
 
 Hello, everyone. I'm Kei NISHIHARA, a master's degree student at Yokohama National University.
 

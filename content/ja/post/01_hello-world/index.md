@@ -25,7 +25,7 @@ featured: false
 image:
   caption: ""
   focal_point: ""
-  placement: 2
+  placement: 0
   preview_only: false
 
 authors:
@@ -37,7 +37,7 @@ categories:
 - Operation
 ---
 
-## Message
+### Message
 
 はじめまして．横浜国立大学大学院 修士2年の西原 慧と申します．
 

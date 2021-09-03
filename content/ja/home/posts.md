@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: 最新記事
+title: 最新投稿
 subtitle:
 
 content:
