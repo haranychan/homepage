@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adaptive Differential Evolution | Kei Nishihara</title>
+    <link>http://localhost:1313/tag/adaptive-differential-evolution/</link>
+      <atom:link href="http://localhost:1313/tag/adaptive-differential-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adaptive Differential Evolution</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><copyright>© 2021 Kei Nishihara</copyright><lastBuildDate>Tue, 21 Sep 2021 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hud57e5e229e3e86875b541e3d20d47de2_1167_512x512_fill_lanczos_center_3.png</url>
+      <title>Adaptive Differential Evolution</title>
+      <link>http://localhost:1313/tag/adaptive-differential-evolution/</link>
+    </image>
+    
+    <item>
+      <title>FAN 2021 Online</title>
+      <link>http://localhost:1313/event/fan-2021-online/</link>
+      <pubDate>Tue, 21 Sep 2021 09:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/fan-2021-online/</guid>
+      <description>&lt;h3 id=&#34;abstract-of-the-paper&#34;&gt;Abstract of the Paper&lt;/h3&gt;
+&lt;p&gt;Computational expensive optimization problems (CEPs) are widely seen in real-world applications. In this domain, high-performance solution derivation with as few fitness evaluations (FEs) as possible is required. Adaptive Differential Evolution Algorithms (adaptive DE), optimization techniques that automatically adapt their hyperparameters to the problem during a single run, can be effective methodologies for CEPs if the adaptation is done properly. Ensemble adaptive DEs, which consist of heterogeneous adaptive DEs, have the potential to improve performance with suitable adaptive DEs found in a larger algorithm space than that of a single adaptive DE, but they also make it difficult to find a suitable adaptive DE due to a large algorithm search space. The existing methods verify the validity of the used adaptive DEs in a post-hoc validation manner while utilizing FEs obtained in certain periods of generations to search the algorithm space. Thus they require a large number of FEs and are unsuitable for CEPs. This paper proposes a new ensemble adaptive DE with a prior validation that estimates a suitable adaptive DE every generation without additional FEs before solution generation. Experimental results show that our proposal outperforms existing methods and has a better convergence speed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance Improvement with Prior-validation Framework for Algorithmic Configuration on Self-adaptive Differential Evolution</title>
+      <link>http://localhost:1313/publication/j-2021tom/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/j-2021tom/</guid>
+      <description>&lt;h3 id=&#34;notice&#34;&gt;Notice&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;All materials on this page are author’s versions, not necessarily coincide with final published versions.&lt;/li&gt;
+&lt;li&gt;IPSJ issued the call for paper of this journal in conjunction with &lt;a href=&#34;../nc-2020mps/&#34;&gt;the 131st MPS&lt;/a&gt;, a national conference.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance improvement with Prior-validation framework for Algorithmic configuration on Self-adaptive differential evolution</title>
+      <link>http://localhost:1313/publication/nc-2020mps/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nc-2020mps/</guid>
+      <description>&lt;h3 id=&#34;notice&#34;&gt;Notice&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;All materials on this page are author’s versions, not necessarily coincide with final published versions.&lt;/li&gt;
+&lt;li&gt;IPSJ issued the call for paper for this national conference in conjunction with &lt;a href=&#34;../j-2021tom/&#34;&gt;the TOM 14(3)&lt;/a&gt;, a refereed journal paper.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Competitive-Adaptive Algorithm-Tuning of Metaheuristics inspired by the Equilibrium Theory: A Case Study</title>
+      <link>http://localhost:1313/publication/ic-2020cec/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic-2020cec/</guid>
+      <description>&lt;h3 id=&#34;notice&#34;&gt;Notice&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;All materials on this page are author’s versions, not necessarily coincide with final published versions.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Competitively Adaptive Algorithm Tuning inspired by Equilibrium Theory</title>
+      <link>http://localhost:1313/publication/nc-2019ecsymp/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nc-2019ecsymp/</guid>
+      <description>&lt;h3 id=&#34;notice&#34;&gt;Notice&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;All materials on this page are author’s versions, not necessarily coincide with final published versions.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

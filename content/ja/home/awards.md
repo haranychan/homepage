@@ -26,6 +26,16 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: 優秀論文賞
+  url: "https://sites.google.com/view/fan2021online/%E8%A1%A8%E5%BD%B0"
+  date_end: ""
+  date_start: "2021-09-23"
+  organization: FAN2021 運営委員会
+  organization_url: "https://sites.google.com/view/fan2021online/"
+  certificate_url: "./certification/certification_FAN2021.pdf"
+  description: ""
+
+item:
 - title: 電気学術奨励賞
   url: "https://www.iee.jp/tokyo/award/encourage/R01/"
   date_end: ""

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Kei Nishihara</title>
+    <link>http://localhost:1313/event/</link>
+      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><copyright>© 2021 Kei Nishihara</copyright><lastBuildDate>Tue, 21 Sep 2021 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hud57e5e229e3e86875b541e3d20d47de2_1167_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/event/</link>
+    </image>
+    
+    <item>
+      <title>FAN 2021 Online</title>
+      <link>http://localhost:1313/event/fan-2021-online/</link>
+      <pubDate>Tue, 21 Sep 2021 09:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/fan-2021-online/</guid>
+      <description>&lt;h3 id=&#34;abstract-of-the-paper&#34;&gt;Abstract of the Paper&lt;/h3&gt;
+&lt;p&gt;Computational expensive optimization problems (CEPs) are widely seen in real-world applications. In this domain, high-performance solution derivation with as few fitness evaluations (FEs) as possible is required. Adaptive Differential Evolution Algorithms (adaptive DE), optimization techniques that automatically adapt their hyperparameters to the problem during a single run, can be effective methodologies for CEPs if the adaptation is done properly. Ensemble adaptive DEs, which consist of heterogeneous adaptive DEs, have the potential to improve performance with suitable adaptive DEs found in a larger algorithm space than that of a single adaptive DE, but they also make it difficult to find a suitable adaptive DE due to a large algorithm search space. The existing methods verify the validity of the used adaptive DEs in a post-hoc validation manner while utilizing FEs obtained in certain periods of generations to search the algorithm space. Thus they require a large number of FEs and are unsuitable for CEPs. This paper proposes a new ensemble adaptive DE with a prior validation that estimates a suitable adaptive DE every generation without additional FEs before solution generation. Experimental results show that our proposal outperforms existing methods and has a better convergence speed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

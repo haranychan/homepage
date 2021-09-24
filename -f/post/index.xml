@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Kei Nishihara</title>
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><copyright>© 2021 Kei Nishihara</copyright><lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hud57e5e229e3e86875b541e3d20d47de2_1167_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>http://localhost:1313/post/</link>
+    </image>
+    
+    <item>
+      <title>FAN2021</title>
+      <link>http://localhost:1313/post/02_fan2021/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/02_fan2021/</guid>
+      <description>&lt;h3 id=&#34;message&#34;&gt;Message&lt;/h3&gt;
+&lt;p&gt;I will give a presentation titled &amp;quot;High-level Ensemble of Adaptive Differential Evolution with Prior-validation toward Computationally Expensive Optimization Problems&amp;quot; at &lt;a href=&#34;https://sites.google.com/view/fan2021online/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FAN2021&lt;/a&gt;, a not refereed national conference, but abstract is refereed. Both paper and presentation are &lt;em&gt;&lt;strong&gt;in Japanese&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;For more information -&amp;gt; See &lt;a href=&#34;http://localhost:1313/event/fan-2021-online/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello, World !!</title>
+      <link>http://localhost:1313/post/01_hello-world/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/01_hello-world/</guid>
+      <description>&lt;h3 id=&#34;message&#34;&gt;Message&lt;/h3&gt;
+&lt;p&gt;Hello, everyone. I&amp;rsquo;m Kei NISHIHARA, a master&amp;rsquo;s degree student at Yokohama National University.&lt;/p&gt;
+&lt;p&gt;Today, I&amp;rsquo;m happy to announce that my new personal website has been up 🎉&lt;/p&gt;
+&lt;p&gt;This site is mainly about my research, but sometimes about my hobbies.&lt;/p&gt;
+&lt;p&gt;For now, I have posted &lt;a href=&#34;http://localhost:1313/publication/&#34;&gt;Publications&lt;/a&gt;, &lt;a href=&#34;http://localhost:1313/#awards&#34;&gt;Awards&lt;/a&gt;, and &lt;a href=&#34;http://localhost:1313/#grants&#34;&gt;Grants &amp;amp; Scholarships&lt;/a&gt; as well as &lt;a href=&#34;http://localhost:1313/&#34;&gt;Bio at home&lt;/a&gt;, please check them out!&lt;/p&gt;
+&lt;p&gt;I will continue to update this page regularly, so please stay tuned!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
