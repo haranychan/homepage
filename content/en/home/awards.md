@@ -35,7 +35,6 @@ item:
   certificate_url: "./certification/certification_FAN2021.pdf"
   description: ""
 
-item:
 - title: Electric Academic Encouragement Award
   url: "https://www.iee.jp/tokyo/award/encourage/R01/"
   date_end: ""

@@ -35,7 +35,6 @@ item:
   certificate_url: "./certification/certification_FAN2021.pdf"
   description: ""
 
-item:
 - title: 電気学術奨励賞
   url: "https://www.iee.jp/tokyo/award/encourage/R01/"
   date_end: ""
@@ -108,8 +107,7 @@ item:
   certificate_url: ""
   description: ""
 
-  
 
 design:
-  columns: '2' 
+  columns: '2'
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Cartesian genetic programmingを用いた転移利用可能な積み付けアルゴリズムの自動生成"
+title: "遺伝的プログラミングを用いた積み付けアルゴリズムの対話的生成"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -19,11 +19,11 @@ author_notes:
 - "株式会社IHI, 横浜国立大学"
 - "横浜国立大学"
 
-date: "2020-12-17T00:00:00Z"
+date: "2021-09-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-17T00:00:00Z"
+publishDate: "2021-09-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Refereed Journal Paper;
@@ -34,27 +34,22 @@ publishDate: "2020-12-17T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*情報処理学会 第131回「数理モデル化と問題解決」研究会（MPS）講演論文集*, Vol. 2020, No. 10, pp. 1--6"
-publication_short: "*情報処理学会 第131回MPS研究会講演論文集*, Vol. 2020, No. 10, pp. 1--6"
+publication: "*電気学会 電子・情報・システム部門（C部門）大会講演論文集*, pp. 197--202"
+publication_short: "*電気学会 C部門大会講演論文集*, pp. 197--202"
 
-abstract: 本論文では，定義された目的関数のもとで，Cartesian genetic programming（CGP）を用いた転移利用可能な積み付けアルゴリズムの自動生成技術を提案する．提案法では，積み付け候補から選択する基準として選択ルールを複数定義し，その実行順位を出力するモデルをCGP で構築する．類似問題へ転移利用するシミュレーション実験では，提案法がベースラインと同等の性能を導出できることを示す．これは，自動生成された積み付けアルゴリズムが，ヒトによる追加評価なしで，類似問題へ転移利用できる可能性を示す意義がある．
-
+abstract: This paper integrates an interactive framework into Automatic Construction technique of Loading Algorithms based on Cartesian Genetic Programing (ACLA-CGP). While ACLA-CGP has a capacity to derive a loading algorithm optimizing a given objective function, its validity still remains unclear under human evaluations. Our interactive ACLA-CGP, i.e., i-ACLA-CGP, is designed to reduce human evaluations as possible and thus evaluates’ burdens. Experimental results show that i-ACLA-CGP successfully derives loading algorithms with 50 human evaluations while satisfying their preferences.
 # Summary. An optional shortened abstract.
-summary: 
+summary: This paper integrates an interactive framework into Automatic Construction technique of Loading Algorithms based on Cartesian Genetic Programing (ACLA-CGP).
 
-tags: [Genetic Programming, Automatic Algorithm Construction, Loading Optimization Problem]
+tags: [Genetic Programming, Interactive Evolutionary Computation, Loading Optimization Problem]
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Link (Paper)
-  url: http://id.nii.ac.jp/1001/00208645/
 - name: Link (Conference)
-  url: http://www.ipsj.or.jp/kenkyukai/event/mps131.html
-- name: Link (CFP)
-  url: http://daemon.inf.uec.ac.jp/MPSPortal/events/mps131cfp
+  url: https://www.iee.jp/eiss/conf/conf2021
 
 url_pdf: ''
 url_code: ''
@@ -91,4 +86,3 @@ slides: ""
 ### 参考
 
 - 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致しない可能性があります．
-- 本国内会議は，査読あり論文誌[情報処理学会論文誌「数理モデル化と応用」Vol.14 No.3](../j-2021tom-hrt/)の募集と連動して開催されました．
