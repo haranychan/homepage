@@ -1,6 +1,6 @@
 ---
 title: FAN2021 参加報告
-subtitle: インテリジェント・システム・シンポジウム（FAN2021）で発表しました．
+subtitle: インテリジェント・システム・シンポジウム（FAN2021, 9/21-23）で発表しました．
 
 # Summary for listings and search engines
 summary: "インテリジェント・システム・シンポジウム（FAN2021）にて発表を行い，優秀論文賞をいただきました．開催にご尽力くださった方々に感謝いたします．"
@@ -9,10 +9,10 @@ summary: "インテリジェント・システム・シンポジウム（FAN2021
 projects: []
 
 # Date published
-date: "2021-09-23T00:00:00Z"
+date: "2021-09-24T00:00:00Z"
 
 # Date updated
-lastmod: "2021-09-23T00:00:00Z"
+lastmod: "2021-09-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false

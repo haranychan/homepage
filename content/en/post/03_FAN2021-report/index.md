@@ -1,6 +1,6 @@
 ---
 title: FAN2021 Report
-subtitle: I gave a presentation at Symposium on Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence (FAN2021).
+subtitle: I gave a presentation at Symposium on Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence (FAN2021, 21-23, Sep.).
 
 # Summary for listings and search engines
 summary: "I gave a presentation at Symposium on Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence (FAN2021), and we won the Excellent Paper Award. Thank you to all those who helped make this event possible．"
@@ -9,10 +9,10 @@ summary: "I gave a presentation at Symposium on Fuzzy, Artificial Intelligence, 
 projects: []
 
 # Date published
-date: "2021-09-23T00:00:00Z"
+date: "2021-09-24T00:00:00Z"
 
 # Date updated
-lastmod: "2021-09-23T00:00:00Z"
+lastmod: "2021-09-24T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
