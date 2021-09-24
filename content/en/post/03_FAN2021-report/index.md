@@ -3,7 +3,7 @@ title: FAN2021 Report
 subtitle: I gave a presentation at Symposium on Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence (FAN2021, 21-23, Sep.).
 
 # Summary for listings and search engines
-summary: "I gave a presentation at Symposium on Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence (FAN2021), and we won the Excellent Paper Award. Thank you to all those who helped make this event possible．"
+summary: "I gave a presentation at Symposium on Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence (FAN2021, 21-23, Sep.), and we won the Excellent Paper Award. Thank you to all those who helped make this event possible．"
 
 # Link this post with a project
 projects: []
