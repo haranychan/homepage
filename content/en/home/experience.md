@@ -25,19 +25,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Master's Degree Student
+  - title: Doctoral Student
     company: YNU Graduate School of Engineering Science
     company_url: 'https://www.fse.ynu.ac.jp/english/index.html'
-    company_logo: org-MEng
+    company_logo: org-DEng
     location: Yokohama, Japan
-    date_start: '2020-04-01'
+    date_start: '2022-04-01'
     date_end: ''
     description: |2-
         Major: Evolutionary Computation
         
         Laboratory: Evolutionary Intelligence Research Group ([Nakata Lab](http://www.nkt.ynu.ac.jp/en/))
 
-        Master Thesis: 
+        Ph.D. Thesis: 
+
+  - title: Master's Degree Student
+    company: YNU Graduate School of Engineering Science
+    company_url: 'https://www.fse.ynu.ac.jp/english/index.html'
+    company_logo: org-MEng
+    location: Yokohama, Japan
+    date_start: '2020-04-01'
+    date_end: '2022-03-31'
+    description: |2-
+        Major: Evolutionary Computation
+        
+        Laboratory: Evolutionary Intelligence Research Group ([Nakata Lab](http://www.nkt.ynu.ac.jp/en/))
+
+        Master Thesis: "Adaptive Evolutionary Computation with Prior-Validation" (in Japanese, [PDF](./publication/MasterThesis/paper.pdf))
         
   - title: Undergraduate Student
     company: YNU College of Engineering Science

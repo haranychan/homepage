@@ -25,12 +25,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 博士課程前期（修士）在籍中
+  - title: 博士課程後期（博士）在籍中
     company: 横浜国立大学大学院 理工学府 数物・電子情報系理工学専攻
     company_url: 'https://www.fse.ynu.ac.jp/'
-    company_logo: org-MEng
+    company_logo: org-DEng
     location: 横浜
-    date_start: '2020-04-01'
+    date_start: '2022-04-01'
     date_end: ''
     description: |2-
         専攻: 進化計算
@@ -38,6 +38,21 @@ experience:
         研究室: 進化的知能研究室（[中田研究室](http://www.nkt.ynu.ac.jp/)）
 
         学位論文: 
+  
+  - title: 博士課程前期（修士）
+    company: 横浜国立大学大学院 理工学府 数物・電子情報系理工学専攻
+    company_url: 'https://www.fse.ynu.ac.jp/'
+    company_logo: org-MEng
+    location: 横浜
+    date_start: '2020-04-01'
+    date_end: '2022-03-31'
+    description: |2-
+        専攻: 進化計算
+        
+        研究室: 進化的知能研究室（[中田研究室](http://www.nkt.ynu.ac.jp/)）
+
+        学位論文: 「事前検証型パラメータ適応進化計算」（[PDF](./publication/MasterThesis/paper.pdf)）
+
         
   - title: 学部生
     company: 横浜国立大学 理工学部 数物・電子情報系学科
