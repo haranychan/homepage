@@ -25,6 +25,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Special Researcher (DC1) 
+    company: the Japan Society for the Promotion of Science (JSPS)
+    company_url: 'https://www.jsps.go.jp/english/'
+    company_logo: org-DC1
+    location: Tokyo, Japan
+    date_start: '2022-04-01'
+    date_end: ''
+    description: |2-
+        [Information](https://www.jsps.go.jp/english/e-pd/index.html)
+
   - title: Doctoral Student
     company: YNU Graduate School of Engineering Science
     company_url: 'https://www.fse.ynu.ac.jp/english/index.html'
