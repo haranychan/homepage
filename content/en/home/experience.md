@@ -25,7 +25,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Special Researcher (DC1) 
+  - title: Research Fellow (DC1) 
     company: the Japan Society for the Promotion of Science (JSPS)
     company_url: 'https://www.jsps.go.jp/english/'
     company_logo: org-DC1
@@ -33,11 +33,11 @@ experience:
     date_start: '2022-04-01'
     date_end: ''
     description: |2-
-        [Information](https://www.jsps.go.jp/english/e-pd/index.html)
+        [Information](https://www.jsps.go.jp/english/e-pd/)
 
   - title: Doctoral Student
     company: YNU Graduate School of Engineering Science
-    company_url: 'https://www.fse.ynu.ac.jp/english/index.html'
+    company_url: 'https://www.fse.ynu.ac.jp/english/'
     company_logo: org-DEng
     location: Yokohama, Japan
     date_start: '2022-04-01'
@@ -51,7 +51,7 @@ experience:
 
   - title: Master's Degree Student
     company: YNU Graduate School of Engineering Science
-    company_url: 'https://www.fse.ynu.ac.jp/english/index.html'
+    company_url: 'https://www.fse.ynu.ac.jp/english/'
     company_logo: org-MEng
     location: Yokohama, Japan
     date_start: '2020-04-01'
@@ -65,7 +65,7 @@ experience:
         
   - title: Undergraduate Student
     company: YNU College of Engineering Science
-    company_url: 'https://www.es.ynu.ac.jp/english/index.html'
+    company_url: 'https://www.es.ynu.ac.jp/english/'
     company_logo: org-BEng
     location: Yokohama, Japan
     date_start: '2016-04-01'

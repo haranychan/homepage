@@ -26,6 +26,24 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: Teijin Kumura Scholarship Student
+  url: "https://www.teijin.co.jp/eco/scholarship/scholarship/scholarship.html"
+  date_end: "2025-03-31"
+  date_start: "2022-04-01"
+  organization: TEIJIN Scholarship Foundation
+  organization_url: "https://www.teijin.co.jp/eco/scholarship/"
+  certificate_url: ""
+  description: ""
+
+- title: Research Fellow (DC1)
+  url: "https://www.jsps.go.jp/english/e-pd/"
+  date_end: "2025-03-31"
+  date_start: "2022-04-01"
+  organization: the Japan Society for the Promotion of Science (JSPS)
+  organization_url: "https://www.jsps.go.jp/english/"
+  certificate_url: ""
+  description: ""
+
 - title: Outstanding Student Paper Participation Grants for IEEE CEC 2021
   url: "https://cec2021.mini.pw.edu.pl/en/calls/call-for-participation-grants"
   date_end: ""

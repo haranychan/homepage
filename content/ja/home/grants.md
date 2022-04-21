@@ -26,6 +26,24 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: 帝人久村奨学金 奨学生
+  url: "https://www.teijin.co.jp/eco/scholarship/scholarship/scholarship.html"
+  date_end: "2025-03-31"
+  date_start: "2022-04-01"
+  organization: (公財) 帝人奨学会
+  organization_url: "https://www.teijin.co.jp/eco/scholarship/"
+  certificate_url: ""
+  description: ""
+
+- title: 特別研究員（DC1）
+  url: "https://www.jsps.go.jp/j-pd/"
+  date_end: "2025-03-31"
+  date_start: "2022-04-01"
+  organization: (独) 日本学術振興会
+  organization_url: "https://www.jsps.go.jp/"
+  certificate_url: ""
+  description: ""
+
 - title: Outstanding Student Paper Participation Grants for IEEE CEC 2021
   url: "https://cec2021.mini.pw.edu.pl/en/calls/call-for-participation-grants"
   date_end: ""
@@ -39,7 +57,7 @@ item:
   url: "https://corporate.murata.com/ja-jp/group/zaidan/requirement"
   date_end: ""
   date_start: "2020-06-01"
-  organization:  村田学術振興財団
+  organization: (公財) 村田学術振興財団
   organization_url: "https://corporate.murata.com/ja-jp/group/zaidan"
   certificate_url: "https://corporate.murata.com/ja-jp/group/zaidan/recipient/oversea/2020"
   description: ""

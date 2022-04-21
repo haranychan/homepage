@@ -26,6 +26,33 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: Awarding for Contribution to Academic Thesis
+  url: ""
+  date_end: ""
+  date_start: "2022-03-24"
+  organization: Alumni Association of the Department of Electrical Engineering and Computer Science, YNU
+  organization_url: "https://www.fse.ynu.ac.jp/english/"
+  certificate_url: "./certification/certification_paper-award.pdf"
+  description: ""
+
+- title: Student Award
+  url: ""
+  date_end: ""
+  date_start: "2022-03-24"
+  organization: Alumni Association of the Department of Electrical Engineering and Computer Science, YNU
+  organization_url: "https://ynu-dnj.alumnet.jp/"
+  certificate_url: "./certification/certification_alumni_M.pdf"
+  description: ""
+
+- title: Master Degree Academic Achievements Award
+  url: "http://somu-somu.ynu.ac.jp/gakugai/kisoku/act/frame/frame110000171.htm"
+  date_end: ""
+  date_start: "2022-03-24"
+  organization: Yokohama National University
+  organization_url: "https://www.ynu.ac.jp/english/"
+  certificate_url: "./certification/certification_M.pdf"
+  description: ""
+
 - title: Excellent Paper Award
   url: "https://sites.google.com/view/fan2021online/%E8%A1%A8%E5%BD%B0"
   date_end: ""
