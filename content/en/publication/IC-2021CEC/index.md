@@ -39,7 +39,7 @@ summary: This paper compares four popular adaptive DEs on the MOEA/D-DE framewor
 tags: [Algorithmic Configuration Adaptation, MOEA/D-DE, Many-objective Optimization]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
