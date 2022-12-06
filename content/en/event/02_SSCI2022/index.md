@@ -58,6 +58,10 @@ projects:
 - []
 ---
 
+It's been a long time, and this is a last-minute update....
+
+This is my first time to attend an international conference in person. I hope to have a lot of discussions.
+
 ### Abstract of the Paper
 
 In surrogate-assisted evolutionary algorithms (SAEAs), the selection criterion of training data is a crucial option to improve the prediction accuracy of surrogate models. In this paper, we hypothesize that a proper selection criterion changes dependent on the problems and/or search situations. Accordingly, this paper proposes a surrogate-assisted differential evolution, which adapts the training data selection criterion to enhance the model accuracy and then optimization performance of our SAEA. In detail, the proposed algorithm builds multiple approximation models under different selection criteria. Then, the best-fitting model is utilized to screen candidate solutions. Experimental results show that the proposed algorithm outperforms the state-of-the-art SAEAs on a single-objective optimization benchmark suite up to 100 dimensions.
