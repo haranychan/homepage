@@ -34,7 +34,7 @@ publishDate: "2022-11-30T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Access, Vol. 10, pp. 125167--125180"
+publication: "*IEEE Access*, Vol. 10, pp. 125167--125180"
 publication_short: "*IEEE Access, Vol. 10, pp. 125167--125180"
 
 abstract: The design of a freight loading pattern is often conducted by skilled workers, who handle unquantifiable objectives and/or preferences. Our previous study presented an automatic construction technique for loading algorithms using genetic programming-based hyper-heuristics; however, this technique is only applicable to fully quantifiable loading problems. Thus, the approach described in this paper integrates an interactive framework with users into our previous technique to automatically construct algorithms that derive loading patterns adapted to user objectives and/or preferences. Thus, once a loading algorithm has been derived with user interactions, it can be reused to obtain the preferred loading patterns on other problems without any additional interactions. Experimental results show that the proposed algorithm can produce loading algorithms adapted for user preferences under a limit of 50 human interactions. Further, we also show that the derived loading algorithms can be applicable to different loading situations without any additional user interactions. Thus, these observations suggest the benefit of our approaches in reducing the burden placed on skilled workers for practical LPD tasks.
