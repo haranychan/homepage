@@ -31,21 +31,20 @@ publication_types: ["3"]
 publication: "*第16回進化計算シンポジウム講演論文集*, pp. 177--184"
 publication_short: "*第16回進化計算シンポジウム講演論文集*, pp. 177--184"
 
-abstract: 
+abstract: 機械学習により解評価を代替するサロゲート進化計算（SAEA）では，最適化性能はサロゲートの性能に依存するため，これを適切に選択することが重要である．近年では，一回の最適化プロセス中にオンラインにモデル適応を行う適応SAEAが主流である．しかしながら，SAEAの探索効率を向上させるサロゲートの有効な性能指標は定まっておらず，目的関数値に対する推定誤差や順位相関などが使用されてきた．高々数百から数千程度の学習データの下では，これらの性能指標は信頼性に欠け，推定誤差が最小のサロゲートを用いてもSAEAの性能が改善しない場合がある．そこで本研究では，評価値の高い解を実際に発見できたか否か，つまり，解更新の成功実績をサロゲートの選定基準とする適応SAEAを提案する．実験では，CEC2013ベンチマークセットで提案手法が最先端のSAEAよりも優れた性能を導出することを示す．また考察では，解更新の成功実績を選定基準とする適応の妥当性を，解更新成功率などの観点から定量的に検証する．
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: 適応候補のサロゲートが推薦した解が解更新に成功したかどうか基づいてサロゲートを選択する，新しい適応サロゲート進化計算を提案する．
 
 tags: [Surrogate-assisted Evolutionary Algorithm, Adaptation of Surrogate, Radial Basis Function Network, Kriging, Differential Evolution]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
 - name: Link (Conference)
   url: http://www.jpnsec.org/symposium202203.html
-
 
 url_pdf: ''
 url_code: ''
@@ -79,6 +78,8 @@ projects:
 slides: ""
 ---
 
+
 ### 参考
 
+- [IEEE CIS Young Researchers Award]()と[プレゼンテーション賞]()を同時受賞しました．
 - 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致しない可能性があります．

@@ -5,7 +5,7 @@ title: "Surrogate-assisted Differential Evolution with Adaptation of Training Da
 # If you created a profile for a user (e.g. the default `Kei Nishihara` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Kei Nishihara
+- admin
 - Masaya Nakata
 
 # Author notes (optional)

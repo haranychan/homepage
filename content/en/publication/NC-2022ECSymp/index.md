@@ -39,7 +39,7 @@ summary:
 tags: [Surrogate-assisted Evolutionary Algorithm, Adaptation of Surrogate, Radial Basis Function Network, Kriging, Differential Evolution]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
@@ -81,4 +81,5 @@ slides: ""
 
 ### Notice
 
+- We got the [IEEE CIS Young Researchers Award]() and [Presentation Award]() at the same time.
 - All materials on this page are author’s versions, not necessarily coincide with final published versions.
