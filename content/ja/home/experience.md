@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 64
+weight: 74
 
 title: 経歴
 subtitle:
