@@ -45,8 +45,8 @@ Not only my own presentation, but also tutorials, other presentations, Q&A, disc
 
 Due to the COVID-19 disaster, this was the first international conference I have attended in person, but it was a very fulfilling experience. I hope that the number of people suffering from the COVID-19 disaster will decrease and that peaceful days will be restored.
 
-[photo1](1.jpg)
+![photo1](1.jpg)
 
-[photo2](2.jpg)
+![photo2](2.jpg)
 
-[photo3](3.jpg)
+![photo3](3.jpg)
