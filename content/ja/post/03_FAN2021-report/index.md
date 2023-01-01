@@ -31,7 +31,7 @@ image:
 authors:
 - admin
 
-tags:
+tags: [Adaptive Differential Evolution, Ensemble Evolutionary Computation, Computationally Expensive Optimization]
 
 categories:
 - Research

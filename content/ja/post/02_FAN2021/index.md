@@ -15,7 +15,7 @@ date: "2021-09-03T00:00:00Z"
 lastmod: "2021-09-03T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: false
@@ -31,7 +31,7 @@ image:
 authors:
 - admin
 
-tags:
+tags: [Adaptive Differential Evolution, Ensemble Evolutionary Computation, Computationally Expensive Optimization]
 
 categories:
 - Research
