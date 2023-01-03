@@ -39,4 +39,6 @@ highlight_name: true
 
 [日本学術振興会 特別研究員](https://www.jsps.go.jp/j-pd/)（DC1）．
 
+[応用情報技術者](https://www.jitec.ipa.go.jp/1_11seido/ap.html)，[基本情報技術者](https://www.jitec.ipa.go.jp/1_11seido/fe.html)，[第三種電気主任技術者](https://www.shiken.or.jp/examination/e-chief03.html)．
+
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
