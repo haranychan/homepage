@@ -26,6 +26,25 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+
+- title: Young Researcher Award (YRA)
+  url: "http://www.ieee-jp.org/section/tokyo/chapter/CIS-11/index.php?TopPage-J/YRA-J"
+  date_end: ""
+  date_start: "2022-12-18"
+  organization: IEEE Computer Intelligence Society Japan Chapter
+  organization_url: "http://www.ieee-jp.org/section/tokyo/chapter/CIS-11/index.php?TopPage-J"
+  certificate_url: "./certification/certification_ECSymp2022-YRA.pdf"
+  description: "第16回進化計算シンポジウム2022にてプレゼンテーション賞と同時受賞、[進化計算学会におけるページ](http://www.jpnsec.org/yra.html)．"
+
+- title: プレゼンテーション賞
+  url: "http://www.jpnsec.org/bestposters.html"
+  date_end: ""
+  date_start: "2022-12-18"
+  organization: 進化計算学会
+  organization_url: "http://www.jpnsec.org"
+  certificate_url: "./certification/certification_ECSymp2022-presentation.pdf"
+  description: "第16回進化計算シンポジウム2022にて IEEE CIS Japan Chapter YRA と同時受賞"
+
 - title: 論文顕彰
   url: ""
   date_end: ""
@@ -34,7 +53,7 @@ item:
   organization_url: "https://www.fse.ynu.ac.jp/"
   certificate_url: "./certification/certification_paper-award.pdf"
   description: ""
-  
+
 - title: 学生表彰
   url: ""
   date_end: ""
@@ -60,7 +79,7 @@ item:
   organization: FAN2021 運営委員会
   organization_url: "https://sites.google.com/view/fan2021online/"
   certificate_url: "./certification/certification_FAN2021.pdf"
-  description: ""
+  description: "FAN2021にて受賞"
 
 - title: 電気学術奨励賞
   url: "https://www.iee.jp/tokyo/award/encourage/R01/"

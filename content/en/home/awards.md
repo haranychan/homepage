@@ -26,6 +26,25 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+
+- title: Young Researcher Award (YRA)
+  url: "http://www.ieee-jp.org/section/tokyo/chapter/CIS-11/index.php?TopPage-J/YRA-J"
+  date_end: ""
+  date_start: "2022-12-18"
+  organization: IEEE Computer Intelligence Society Japan Chapter
+  organization_url: "http://www.ieee-jp.org/section/tokyo/chapter/CIS-11/index.php"
+  certificate_url: "./certification/certification_ECSymp2022-YRA.pdf"
+  description: "Awarded at the 16th JPNSEC Symposium on Evolutionary Computation with Presentation Award at the same time. [JPNSEC Page](http://www.jpnsec.org/yra.html)."
+
+- title: Presentation Award
+  url: "http://www.jpnsec.org/bestposters.html"
+  date_end: ""
+  date_start: "2022-12-18"
+  organization: The Japanese Society for Evolutionary Computation (JPNSEC)
+  organization_url: "http://www.jpnsec.org"
+  certificate_url: "./certification/certification_ECSymp2022-presentation.pdf"
+  description: "Awarded at the 16th JPNSEC Symposium on Evolutionary Computation with IEEE CIS Japan Chapter YRA at the same time."
+
 - title: Awarding for Contribution to Academic Thesis
   url: ""
   date_end: ""
@@ -60,7 +79,7 @@ item:
   organization: FAN2021 Committee
   organization_url: "https://sites.google.com/view/fan2021online/"
   certificate_url: "./certification/certification_FAN2021.pdf"
-  description: ""
+  description: "Awarded at FAN2021"
 
 - title: Electric Academic Encouragement Award
   url: "https://www.iee.jp/tokyo/award/encourage/R01/"
