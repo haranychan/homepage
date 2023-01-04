@@ -18,7 +18,7 @@ main:
     weight: 70
   - name: Experience
     url: '#experience'
-    weight: 74
+    weight: 73
   - name: Publications
     url: '#publications'
     weight: 75

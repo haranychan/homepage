@@ -29,7 +29,7 @@ ja:
         weight: 70
       - name: 経歴
         url: '#experience'
-        weight: 74
+        weight: 73
       - name: 発表文献
         url: '#publications'
         weight: 75

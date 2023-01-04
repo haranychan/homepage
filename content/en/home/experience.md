@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 74
+weight: 73
 
 title: Experience
 subtitle:
