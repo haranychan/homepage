@@ -28,7 +28,7 @@ ja:
         url: '#events'
         weight: 70
       - name: 経歴
-        url: '#experiences'
+        url: '#experience'
         weight: 74
       - name: 発表文献
         url: '#publications'
