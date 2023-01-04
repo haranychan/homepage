@@ -33,7 +33,7 @@ item:
   organization: Yokohama National University International Strategy Organization Global Promotion Division
   organization_url: "https://global.ynu.ac.jp/en/"
   certificate_url: ""
-  description: ""
+  description: "supported for the attendance at IEEE SSCI 2022"
 
 - title: Teijin Kumura Scholarship Student
   url: "https://www.teijin.co.jp/eco/scholarship/scholarship/scholarship.html"
@@ -60,7 +60,7 @@ item:
   organization: IEEE Computational Intelligence Society (CIS)
   organization_url: "https://cis.ieee.org/"
   certificate_url: ""
-  description: ""
+  description: "supported for the attendance at IEEE CEC 2021"
 
 - title: Grants for Sending Researchers Abroad
   url: "https://corporate.murata.com/ja-jp/group/zaidan/requirement"
@@ -69,7 +69,7 @@ item:
   organization: The Murata Science Foundation
   organization_url: "https://corporate.murata.com/ja-jp/group/zaidan"
   certificate_url: "https://corporate.murata.com/ja-jp/group/zaidan/recipient/oversea/2020"
-  description: ""
+  description: "supported for the attendance at IEEE WCCI(CEC) 2020"
 
 - title: Nissin Electric Group Scholarship Student
   url: "https://nissin.jp/sczaidan/scholarship.html"

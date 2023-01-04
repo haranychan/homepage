@@ -33,7 +33,7 @@ item:
   organization: 横浜国立大学 国際戦略推進機構 グローバル推進課 留学交流係
   organization_url: "https://global.ynu.ac.jp/"
   certificate_url: ""
-  description: "IEEE SSCI 2022 の参加に関して助成くださりました．"
+  description: "IEEE SSCI 2022 の参加に関して助成いただきました．"
 
 - title: 帝人久村奨学金 奨学生
   url: "https://www.teijin.co.jp/eco/scholarship/scholarship/scholarship.html"
@@ -60,7 +60,7 @@ item:
   organization: IEEE Computational Intelligence Society (CIS)
   organization_url: "https://cis.ieee.org/"
   certificate_url: ""
-  description: "IEEE CEC 2021 の参加に関して助成くださりました．"
+  description: "IEEE CEC 2021 の参加に関して助成いただきました．"
 
 - title: 研究者海外派遣援助
   url: "https://corporate.murata.com/ja-jp/group/zaidan/requirement"
@@ -69,7 +69,7 @@ item:
   organization: (公財) 村田学術振興財団
   organization_url: "https://corporate.murata.com/ja-jp/group/zaidan"
   certificate_url: "https://corporate.murata.com/ja-jp/group/zaidan/recipient/oversea/2020"
-  description: "IEEE WCCI(CEC) 2020 の参加に関して助成くださりました．"
+  description: "IEEE WCCI(CEC) 2020 の参加に関して助成いただきました．"
 
 - title: 日新電機グループ社会貢献基金 奨学生
   url: "https://nissin.jp/sczaidan/scholarship.html"
