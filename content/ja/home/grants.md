@@ -26,6 +26,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: 国際学術交流奨励事業（国際会議等出席・海外調査研究等）
+  url: "https://global.ynu.ac.jp/studyabroad/encourage/"
+  date_end: ""
+  date_start: "2022-10-01"
+  organization: 横浜国立大学 国際戦略推進機構 グローバル推進課 留学交流係
+  organization_url: "https://global.ynu.ac.jp/"
+  certificate_url: ""
+  description: "IEEE SSCI 2022 の参加に関して助成くださりました．"
+
 - title: 帝人久村奨学金 奨学生
   url: "https://www.teijin.co.jp/eco/scholarship/scholarship/scholarship.html"
   date_end: "2025-03-31"
@@ -51,7 +60,7 @@ item:
   organization: IEEE Computational Intelligence Society (CIS)
   organization_url: "https://cis.ieee.org/"
   certificate_url: ""
-  description: ""
+  description: "IEEE CEC 2021 の参加に関して助成くださりました．"
 
 - title: 研究者海外派遣援助
   url: "https://corporate.murata.com/ja-jp/group/zaidan/requirement"
@@ -60,7 +69,7 @@ item:
   organization: (公財) 村田学術振興財団
   organization_url: "https://corporate.murata.com/ja-jp/group/zaidan"
   certificate_url: "https://corporate.murata.com/ja-jp/group/zaidan/recipient/oversea/2020"
-  description: ""
+  description: "IEEE WCCI(CEC) 2020 の参加に関して助成くださりました．"
 
 - title: 日新電機グループ社会貢献基金 奨学生
   url: "https://nissin.jp/sczaidan/scholarship.html"
