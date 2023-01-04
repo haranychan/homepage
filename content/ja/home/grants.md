@@ -44,6 +44,15 @@ item:
   certificate_url: ""
   description: ""
 
+- title: 山田育英会 奨学生
+  url: "http://yamada-ikueikai.or.jp/recruit/"
+  date_end: "2025-03-31"
+  date_start: "2022-04-01"
+  organization: (公財) 山田育英会
+  organization_url: "http://yamada-ikueikai.or.jp/"
+  certificate_url: ""
+  description: ""
+
 - title: 特別研究員（DC1）
   url: "https://www.jsps.go.jp/j-pd/"
   date_end: "2025-03-31"

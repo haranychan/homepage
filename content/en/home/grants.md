@@ -44,6 +44,15 @@ item:
   certificate_url: ""
   description: ""
 
+- title: Yamada Scholarship Student
+  url: "http://yamada-ikueikai.or.jp/recruit/"
+  date_end: "2025-03-31"
+  date_start: "2022-04-01"
+  organization: Yamada Scholarship Foundation
+  organization_url: "http://yamada-ikueikai.or.jp/"
+  certificate_url: ""
+  description: ""
+
 - title: Research Fellow (DC1)
   url: "https://www.jsps.go.jp/english/e-pd/"
   date_end: "2025-03-31"
