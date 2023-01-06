@@ -3,7 +3,7 @@ title: 進化計算シンポジウム2022 参加報告
 subtitle: 進化計算シンポジウム2022（北海道大学 学術交流会館，札幌，12/16-18）にて発表，2件の受賞
 
 # Summary for listings and search engines
-summary: "進化計算シンポジウム2022（北海道大学 学術交流会館，札幌，12/16-18）にて発表を行い，[IEEE CIS Japan Chapter Young Researcher Award](http://www.ieee-jp.org/section/tokyo/chapter/CIS-11/index.php?TopPage-J/YRA-J) と[プレゼンテーション賞](http://www.jpnsec.org/bestposters.html)を同時受賞しました．また，[オープンスペースディスカッション](https://sites.google.com/view/osd2022-jpsec)の運営にも携わりました．開催にご尽力くださった方々に感謝いたします．"
+summary: "進化計算シンポジウム2022（北海道大学 学術交流会館，札幌，12/16-18）にて発表を行い，IEEE CIS Japan Chapter Young Researcher Award とプレゼンテーション賞を同時受賞しました．また，オープンスペースディスカッションの運営にも携わりました．開催にご尽力くださった方々に感謝いたします．"
 
 # Link this post with a project
 projects: []
