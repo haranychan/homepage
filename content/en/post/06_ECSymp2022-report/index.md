@@ -3,7 +3,7 @@ title: JPNSEC Symposium on Evolutionary Computation 2022 Report
 subtitle: I gave a prasentation at JPNSEC Symposium on Evolutionary Computation 2022 (Hokkaido University, Sapporo, 16-18, Dec.) and got two awards.
 
 # Summary for listings and search engines
-summary: "I gave a prasentation at JPNSEC Symposium on Evolutionary Computation 2022 (Hokkaido University, Sapporo, 16-18, Dec.) and got [IEEE CIS Japan Chapter Young Researcher Award](http://www.ieee-jp.org/section/tokyo/chapter/CIS-11/index.php?TopPage-J/YRA-J) and [Presentation Award](http://www.jpnsec.org/bestposters.html) at the same time. I was also a student member of organizers for the [Open Space Discussion](https://sites.google.com/view/osd2022-jpsec) held as a pre event. Thank you to all those who helped make this event possible.
+summary: "I gave a prasentation at JPNSEC Symposium on Evolutionary Computation 2022 (Hokkaido University, Sapporo, 16-18, Dec.) and got [IEEE CIS Japan Chapter Young Researcher Award](http://www.ieee-jp.org/section/tokyo/chapter/CIS-11/index.php?TopPage-J/YRA-J) and [Presentation Award](http://www.jpnsec.org/bestposters.html) at the same time. I was also a student member of organizers for the [Open Space Discussion](https://sites.google.com/view/osd2022-jpsec) held as a pre event. Thank you to all those who helped make this event possible."
 
 # Link this post with a project
 projects: []
