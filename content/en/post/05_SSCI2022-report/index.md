@@ -1,9 +1,9 @@
 ---
 title: IEEE SSCI 2022 Report
-subtitle: I gave a prasentation at IEEE Symposium Series on Computational Intelligence 2022 (IEEE SSCI 2022, 4-7, Dec.).
+subtitle: I gave a prasentation at IEEE Symposium Series on Computational Intelligence 2022 (IEEE SSCI 2022, Singapore Management University, Singapore, 4-7, Dec.).
 
 # Summary for listings and search engines
-summary: "I gave a prasentation at IEEE Symposium Series on Computational Intelligence 2022 (IEEE SSCI 2022, 4-7, Dec.). Thank you to all those who helped make this event possible."
+summary: "I gave a prasentation at IEEE Symposium Series on Computational Intelligence 2022 (IEEE SSCI 2022, Singapore Management University, Singapore, 4-7, Dec.). Thank you to all those who helped make this event possible."
 
 # Link this post with a project
 projects: []
@@ -39,7 +39,7 @@ categories:
 
 ### Message
 
-I gave a presentation titled \"[Surrogate-assisted Differential Evolution with Adaptation of Training Data Selection Criterion]({{< relref "/publication/IC-2022SSCI/index.md" >}})\" at IEEE Symposium Series on Computational Intelligence 2022 (IEEE SSCI 2022, 4-7, Dec.).
+I gave a presentation entitled \"[Surrogate-assisted Differential Evolution with Adaptation of Training Data Selection Criterion]({{< relref "/publication/IC-2022SSCI/index.md" >}})\" at IEEE Symposium Series on Computational Intelligence 2022 (IEEE SSCI 2022, Singapore Management University, Singapore, 4-7, Dec.).
 
 Not only my own presentation, but also tutorials, other presentations, Q&A, discussions, chats, and international exchanges were valuable experiences. It was especially stimulating to talk with researchers whom I had only seen in papers, and to interact with people of my generation from overseas. I kept in touch with my contemporaries after returning to Japan.
 
@@ -50,3 +50,5 @@ Due to the COVID-19 disaster, this was the first international conference I have
 ![photo2](2.jpg)
 
 ![photo3](3.jpg)
+
+![photo4](4.jpg)

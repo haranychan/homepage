@@ -13,7 +13,7 @@ address:
   # country: United States
 
 summary: JPNSEC Symposium on Evolutionary Computation 2022
-abstract: "I will give a presentation titled \"Surrogate-assisted Evolutionary Algorithm using Solution Update Performance as a Selection Criterion\" at JPNSEC Symposium on Evolutionary Computation 2022 in Japanese."
+abstract: "I will give a presentation entitled \"Surrogate-assisted Evolutionary Algorithm using Solution Update Performance as a Selection Criterion\" at JPNSEC Symposium on Evolutionary Computation 2022 in Japanese."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

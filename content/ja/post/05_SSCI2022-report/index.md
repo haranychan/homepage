@@ -1,9 +1,9 @@
 ---
 title: IEEE SSCI 2022 参加報告
-subtitle: IEEE Symposium Series on Computational Intelligence 2022（IEEE SSCI 2022, 12/4-7）にて発表
+subtitle: IEEE Symposium Series on Computational Intelligence 2022（IEEE SSCI 2022，シンガポールマネジメント大学，シンガポール，12/4-7）にて発表
 
 # Summary for listings and search engines
-summary: "IEEE Symposium Series on Computational Intelligence 2022（IEEE SSCI 2022, 12/4-7）にて発表を行いました．開催にご尽力くださった方々に感謝いたします．"
+summary: "IEEE Symposium Series on Computational Intelligence 2022（IEEE SSCI 2022，シンガポールマネジメント大学，シンガポール，12/4-7）にて発表を行いました．開催にご尽力くださった方々に感謝いたします．"
 
 # Link this post with a project
 projects: []
@@ -39,7 +39,7 @@ categories:
 
 ### Message
 
-「[Surrogate-assisted Differential Evolution with Adaptation of Training Data Selection Criterion]({{< relref "/publication/IC-2022SSCI/index.md" >}})」というタイトルで，IEEE Symposium Series on Computational Intelligence 2022（IEEE SSCI 2021, 12/4-7）にて発表を行いました．
+「[Surrogate-assisted Differential Evolution with Adaptation of Training Data Selection Criterion]({{< relref "/publication/IC-2022SSCI/index.md" >}})」というタイトルで，IEEE Symposium Series on Computational Intelligence 2022（IEEE SSCI 2021，シンガポールマネジメント大学，シンガポール，12/4-7）にて発表を行いました．
 
 発表だけでなく，チュートリアルや発表の聴講，質問，議論，雑談，国際交流など，貴重な経験となりました．特に，論文でしかお見かけしたことがなかった研究者の方々との会話や，海外の同世代の方々との交流は刺激的でした．同世代の彼らとは，帰国後も連絡を取り合いました．
 
@@ -50,3 +50,5 @@ categories:
 ![photo2](2.jpg)
 
 ![photo3](3.jpg)
+
+![photo4](4.jpg)

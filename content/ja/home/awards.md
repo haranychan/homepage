@@ -34,7 +34,7 @@ item:
   organization: IEEE Computer Intelligence Society Japan Chapter
   organization_url: "http://www.ieee-jp.org/section/tokyo/chapter/CIS-11/index.php?TopPage-J"
   certificate_url: "./certification/certification_ECSymp2022-YRA.pdf"
-  description: "第16回進化計算シンポジウム2022にてプレゼンテーション賞と同時受賞、[進化計算学会におけるページ](http://www.jpnsec.org/yra.html)．"
+  description: "第16回進化計算シンポジウム2022にてプレゼンテーション賞と同時受賞，[進化計算学会におけるページ](http://www.jpnsec.org/yra.html)．"
 
 - title: プレゼンテーション賞
   url: "http://www.jpnsec.org/bestposters.html"

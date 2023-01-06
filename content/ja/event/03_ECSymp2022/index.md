@@ -13,7 +13,7 @@ address:
   # country: United States
 
 summary: 進化計算シンポジウム2022にて発表を行います．
-abstract: "「解更新の成功実績を選定基準とする適応サロゲート進化計算」というタイトルで，進化計算シンポジウム2022にて発表を行います．前日イベントのオープンスペースディスカッションでは，学生幹事も務めます．"
+abstract: "「解更新の成功実績を選定基準とする適応サロゲート進化計算」というタイトルで，進化計算シンポジウム2022にて発表を行います．前日イベントの[オープンスペースディスカッション](https://sites.google.com/view/osd2022-jpsec)では，学生幹事も務めます．"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

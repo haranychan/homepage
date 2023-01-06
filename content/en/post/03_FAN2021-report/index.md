@@ -39,7 +39,7 @@ categories:
 
 ### Message
 
-I gave a presentation titled \"[High-level Ensemble of Adaptive Differential Evolution with Prior-validation toward Computationally Expensive Optimization Problems]({{< relref "/publication/NC-2021FAN/index.md" >}})\" at Symposium on Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence (FAN2021, 21-23, Sep.). As a result, we won the [Excellent Paper Award](https://sites.google.com/view/fan2021online/%E8%A1%A8%E5%BD%B0). I will continue to make further efforts in the future.
+I gave a presentation entitled \"[High-level Ensemble of Adaptive Differential Evolution with Prior-validation toward Computationally Expensive Optimization Problems]({{< relref "/publication/NC-2021FAN/index.md" >}})\" at Symposium on Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence (FAN2021, 21-23, Sep.). As a result, we won the [Excellent Paper Award](https://sites.google.com/view/fan2021online/%E8%A1%A8%E5%BD%B0). I will continue to make further efforts in the future.
 
 Participation in this symposium gave me an opportunity to deepen my knowledge not only about evolutionary computation but also about computational intelligence. Thank you very much for the many discussions.
 

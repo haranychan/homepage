@@ -13,7 +13,7 @@ address:
   # country: United States
 
 summary: 2021 Symposium on Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence 
-abstract: "I will give a presentation titled \"High-level Ensemble of Adaptive Differential Evolution with Prior-validation toward Computationally Expensive Optimization Problems\" at FAN2021, a not refereed national conference, but abstract is refereed. Both paper and presentation are ***in Japanese***."
+abstract: "I will give a presentation entitled \"High-level Ensemble of Adaptive Differential Evolution with Prior-validation toward Computationally Expensive Optimization Problems\" at FAN2021, a not refereed national conference, but abstract is refereed. Both paper and presentation are ***in Japanese***."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

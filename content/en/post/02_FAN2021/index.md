@@ -39,7 +39,7 @@ categories:
 
 ### Message
 
-I will give a presentation titled \"High-level Ensemble of Adaptive Differential Evolution with Prior-validation toward Computationally Expensive Optimization Problems\" at [FAN2021](https://sites.google.com/view/fan2021online/
+I will give a presentation entitled \"High-level Ensemble of Adaptive Differential Evolution with Prior-validation toward Computationally Expensive Optimization Problems\" at [FAN2021](https://sites.google.com/view/fan2021online/
 ), a not refereed national conference, but abstract is refereed. Both paper and presentation are ***in Japanese***. 
 
 For more information -> See [here]({{< relref "/event/01_FAN2021/index.md" >}})

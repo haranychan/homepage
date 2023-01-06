@@ -13,7 +13,7 @@ address:
   # country: United States
 
 summary: IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2022)
-abstract: "I will give a presentation titled \"Surrogate-assisted Differential Evolution with Adaptation of Training Data Selection Criterion\" at IEEE SSCI 2022, a refereed international conference."
+abstract: "I will give a presentation entitled \"Surrogate-assisted Differential Evolution with Adaptation of Training Data Selection Criterion\" at IEEE SSCI 2022, a refereed international conference."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
