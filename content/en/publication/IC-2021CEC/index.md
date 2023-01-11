@@ -24,7 +24,8 @@ publishDate: "2021-06-28T00:00:00Z"
 # 2 = Refereed International Conference Paper;
 # 3 = Not refereed National Conference Paper;
 # 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent; 9 = Preprint / Working Paper; 
+# 7 = Thesis; 8 = Patent; 9 = Preprint / Working Paper;
+# 10 = Invited Paper;
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.

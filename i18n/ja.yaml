@@ -91,7 +91,7 @@
 - id: publication_type
   translation: 文献種別
 - id: date
-  translation: 発行年
+  translation: 日付
 - id: last_updated
   translation: 最終更新
 - id: event
@@ -118,6 +118,8 @@
   translation: 特許
 - id: pub_notrefconf
   translation: 国内会議（査読なし）
+- id: pub_invited
+  translation: 招待論文
 - id: open_project_site
   translation: プロジェクトページへ
 - id: posts

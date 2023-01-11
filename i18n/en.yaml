@@ -201,6 +201,9 @@
 - id: pub_notrefconf
   translation: Not refereed National Conference Paper
 
+- id: pub_invited
+  translation: Invited Paper
+
 # Project details
 
 - id: open_project_site
