@@ -30,7 +30,7 @@ item:
   url: "https://gecco-2023.sigevo.org/For-Students#Student_Travel_Grants"
   date_end: ""
   date_start: "2023-04-18"
-  organization: ACM
+  organization: Association for Computing Machinery (ACM)
   organization_url: "https://www.acm.org/"
   certificate_url: ""
   description: "supported for the attendance at GECCO 2023"
@@ -66,7 +66,7 @@ item:
   url: "https://www.jsps.go.jp/english/e-pd/"
   date_end: "2025-03-31"
   date_start: "2022-04-01"
-  organization: the Japan Society for the Promotion of Science (JSPS)
+  organization: The Japan Society for the Promotion of Science (JSPS)
   organization_url: "https://www.jsps.go.jp/english/"
   certificate_url: ""
   description: ""
