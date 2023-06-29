@@ -40,12 +40,12 @@ summary: This paper proposes a novel SAEA with adaptation of the training data s
 tags: [Surrogate-assisted Evolutionary Algorithm, Adaptation of Training Data Selection Criterion, Radial Basis Function Network, Differential Evolution]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
 - name: Link (Paper)
-  url: https://ieeexplore.ieee.org/document/
+  url: https://ieeexplore.ieee.org/document/10022105
 - name: Link (Conference)
   url: https://ieeessci2022.org
  

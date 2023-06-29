@@ -37,7 +37,7 @@ abstract: 機械学習により解評価を代替するサロゲート進化計�
 # Summary. An optional shortened abstract.
 summary: 適応候補のサロゲートが推薦した解が解更新に成功したかどうか基づいてサロゲートを選択する，新しい適応サロゲート進化計算を提案する．
 
-tags: [Surrogate-assisted Evolutionary Algorithm, Adaptation of Surrogate, Radial Basis Function Network, Kriging, Differential Evolution]
+tags: [Surrogate-assisted Evolutionary Algorithm, Adaptation of Surrogate, Radial Basis Function Network, Gaussian Process, Differential Evolution]
 
 # Display this page in the Featured widget?
 featured: true

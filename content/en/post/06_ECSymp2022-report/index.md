@@ -31,7 +31,7 @@ image:
 authors:
 - admin
 
-tags: [Surrogate-assisted Evolutionary Algorithm, Adaptation of Surrogate, Radial Basis Function Network, Kriging, Differential Evolution]
+tags: [Surrogate-assisted Evolutionary Algorithm, Adaptation of Surrogate, Radial Basis Function Network, Gaussian Process, Differential Evolution]
 
 categories:
 - Research

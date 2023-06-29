@@ -37,7 +37,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [Surrogate-assisted Evolutionary Algorithm, Adaptation of Surrogate, Radial Basis Function Network, Kriging, Differential Evolution]
+tags: [Surrogate-assisted Evolutionary Algorithm, Adaptation of Surrogate, Radial Basis Function Network, Gaussian Process, Differential Evolution]
 
 # Display this page in the Featured widget?
 featured: true

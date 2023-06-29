@@ -25,7 +25,7 @@ all_day: false
 publishDate: "2022-12-17T00:00:00Z"
 
 authors: []
-tags: [Surrogate-assisted Evolutionary Algorithm, Adaptation of Surrogate, Radial Basis Function Network, Kriging, Differential Evolution]
+tags: [Surrogate-assisted Evolutionary Algorithm, Adaptation of Surrogate, Radial Basis Function Network, Gaussian Process, Differential Evolution]
 
 # Is this a featured talk? (true/false)
 featured: false

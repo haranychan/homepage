@@ -26,6 +26,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: GECCO 2023 Student Travel Grants
+  url: "https://gecco-2023.sigevo.org/For-Students#Student_Travel_Grants"
+  date_end: ""
+  date_start: "2023-04-18"
+  organization: ACM
+  organization_url: "https://www.acm.org/"
+  certificate_url: ""
+  description: "GECCO 2023 の参加に関して助成いただきました．"
+
 - title: 国際学術交流奨励事業（国際会議等出席・海外調査研究等）
   url: "https://global.ynu.ac.jp/studyabroad/encourage/"
   date_end: ""
