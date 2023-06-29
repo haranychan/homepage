@@ -1,11 +1,13 @@
 ---
 title: Kei Nishihara
-role: 1st-year Doctoral Student
+role: 2nd-year Doctoral Student
 avatar_filename: null
 bio: My research interests include evolutionary computation and swarm intelligence.
 interests:
   - Evolutionary Computation
   - Swarm Intelligence
+  - Algorithm Adaptation
+  - Surrogate-assisted Evolutionary Algorithm
 social:
   - icon: envelope
     icon_pack: fas

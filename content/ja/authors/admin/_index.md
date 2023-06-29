@@ -1,11 +1,13 @@
 ---
 title: 西原 慧
-role: 博士課程後期 1年
+role: 博士課程後期 2年
 avatar_filename: null
 bio: 進化計算の研究に従事しています．
 interests:
   - 進化計算
   - 群知能
+  - アルゴリズム適応
+  - サロゲート進化計算
 social:
   - icon: envelope
     icon_pack: fas
