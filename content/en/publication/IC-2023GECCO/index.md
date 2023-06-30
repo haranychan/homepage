@@ -52,9 +52,9 @@ links:
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: '/publication/IC-2023GECCO/poster_portrait.pdf'
 url_project: ''
-url_slides: ''
+url_slides: '/publication/IC-2023GECCO/poster_landscape.pdf'
 url_source: ''
 url_video: ''
 
