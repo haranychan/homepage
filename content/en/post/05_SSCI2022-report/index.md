@@ -50,5 +50,3 @@ Due to the COVID-19 disaster, this was the first international conference I have
 ![photo2](2.jpg)
 
 ![photo3](3.jpg)
-
-![photo4](4.jpg)

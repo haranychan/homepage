@@ -50,5 +50,3 @@ categories:
 ![photo2](2.jpg)
 
 ![photo3](3.jpg)
-
-![photo4](4.jpg)
