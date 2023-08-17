@@ -37,7 +37,7 @@ item:
   description: "第16回進化計算シンポジウム2022にてプレゼンテーション賞と同時受賞，[進化計算学会におけるページ](http://www.jpnsec.org/yra.html)．"
 
 - title: プレゼンテーション賞
-  url: "http://www.jpnsec.org/bestposters.html"
+  url: "http://www.jpnsec.org/bestpresentations.html"
   date_end: ""
   date_start: "2022-12-18"
   organization: 進化計算学会

@@ -37,7 +37,7 @@ item:
   description: "Awarded at the 16th JPNSEC Symposium on Evolutionary Computation with Presentation Award at the same time. [JPNSEC Page](http://www.jpnsec.org/yra.html)."
 
 - title: Presentation Award
-  url: "http://www.jpnsec.org/bestposters.html"
+  url: "http://www.jpnsec.org/bestpresentations.html"
   date_end: ""
   date_start: "2022-12-18"
   organization: The Japanese Society for Evolutionary Computation (JPNSEC)
