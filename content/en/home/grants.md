@@ -26,6 +26,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: YNU International Academic Exchange and Promotion Projects (Attending International Conferences･Conducting Overseas Research and/or Study)
+  url: "https://global.ynu.ac.jp/studyabroad/encourage/"
+  date_end: ""
+  date_start: "2023-10-01"
+  organization: Yokohama National University International Strategy Organization Global Promotion Division
+  organization_url: "https://global.ynu.ac.jp/en/"
+  certificate_url: ""
+  description: "supported for visiting student at Westlake University, Hangzhou, China"
+
 - title: GECCO 2023 Student Travel Grants
   url: "https://gecco-2023.sigevo.org/For-Students#Student_Travel_Grants"
   date_end: ""

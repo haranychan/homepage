@@ -39,7 +39,7 @@ links:
 - name: CFP
   url: http://www.jpnsec.org/symposium202203.html
 url_code: ""
-url_pdf: "/ja/publication/NC-2022ECSymp/NC-2022ECSymp.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 

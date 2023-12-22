@@ -1,7 +1,7 @@
 ---
 title: GECCO 2023
 
-event: The Genetic and Evolutionary Computation Conference Companion (GECCO 2023)
+event: The Genetic and Evolutionary Computation Conference (GECCO 2023)
 event_url: https://gecco-2023.sigevo.org/HomePage
 
 location: Altis Grand Hotel, Lisbon, Portugal
@@ -12,7 +12,7 @@ address:
   # postcode: '94305'
   # country: United States
 
-summary: The Genetic and Evolutionary Computation Conference Companion (GECCO 2023)
+summary: The Genetic and Evolutionary Computation Conference (GECCO 2023)
 abstract: "I will give a poster presentation entitled \"Utilizing the Expected Gradient in Surrogate-assisted Evolutionary Algorithms\" at GECCO 2023, a refereed international conference."
 
 # Talk start and end times.

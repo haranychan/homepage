@@ -1,9 +1,9 @@
 ---
 title: IEEE SSCI 2022 Report
-subtitle: I gave a prasentation at IEEE Symposium Series on Computational Intelligence 2022 (IEEE SSCI 2022, Singapore Management University, Singapore, 4-7, Dec.).
+subtitle: I gave a presentation at IEEE Symposium Series on Computational Intelligence 2022 (IEEE SSCI 2022, Singapore Management University, Singapore, 4-7, Dec.).
 
 # Summary for listings and search engines
-summary: "I gave a prasentation at IEEE Symposium Series on Computational Intelligence 2022 (IEEE SSCI 2022, Singapore Management University, Singapore, 4-7, Dec.). Thank you to all those who helped make this event possible."
+summary: "I gave a presentation at IEEE Symposium Series on Computational Intelligence 2022 (IEEE SSCI 2022, Singapore Management University, Singapore, 4-7, Dec.). Thank you to all those who helped make this event possible."
 
 # Link this post with a project
 projects: []

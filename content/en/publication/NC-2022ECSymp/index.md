@@ -82,5 +82,5 @@ slides: ""
 
 ### Notice
 
-- We got the [IEEE CIS Young Researchers Award]() and [Presentation Award]() at the same time.
+- Nishihara got the [IEEE CIS Young Researchers Award](https://www.ieee-jp.org/section/tokyo/chapter/CIS-11/index.php?TopPage-J/YRA-J) and [Presentation Award](http://www.jpnsec.org/bestpresentations.html) at the same time.
 - All materials on this page are author’s versions, not necessarily coincide with final published versions.

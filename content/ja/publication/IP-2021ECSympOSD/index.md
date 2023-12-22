@@ -47,6 +47,7 @@ publication: "*進化計算学会論文誌*, Vol. 13, No. 1, pp. 1--9"
 publication_short: "*進化計算学会論文誌*, Vol. 13, No. 1, pp. 1--9"
 
 abstract: This paper is a report on Open Space Discussion (OSD) held in Evolutionary Computation Symposium 2021. The purpose of OSD is to share and discuss problems at hand and future research targets related to evolutionary computation. Discussion topics are voluntarily proposed by some of the participants, and other participants freely choose one to join in the discussion. Through free discussions based on the open space technology framework, it is expected that participants will have new research ideas and start some collaborations. This paper gives the concept of OSD and introduces six topics discussed this year. This paper also shows the responses to the questionnaire on OSD for future discussions, collaborations, and related events.
+
 # Summary. An optional shortened abstract.
 summary: This paper is a report on Open Space Discussion (OSD) held in Evolutionary Computation Symposium 2021.
 

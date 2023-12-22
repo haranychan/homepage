@@ -82,5 +82,5 @@ slides: ""
 
 ### 参考
 
-- [IEEE CIS Young Researchers Award]()と[プレゼンテーション賞]()を同時受賞しました．
+- [IEEE CIS Young Researchers Award](https://www.ieee-jp.org/section/tokyo/chapter/CIS-11/index.php?TopPage-J/YRA-J)と[プレゼンテーション賞](http://www.jpnsec.org/bestpresentations.html)を同時受賞しました．
 - 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致しない可能性があります．
