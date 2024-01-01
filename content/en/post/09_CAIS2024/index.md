@@ -1,5 +1,5 @@
 ---
-title: Accepted to CAIS
+title: Our paper has been accepted to CAIS
 subtitle: Our paper has been accepted to Complex & Intelligent Systems.
 
 # Summary for listings and search engines
