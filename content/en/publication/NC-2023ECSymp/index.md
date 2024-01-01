@@ -40,7 +40,7 @@ summary:
 tags: [Surrogate-assisted Evolutionary Algorithm, Adaptation of Surrogate, Radial Basis Function Network, Pareto-optimal Surrogates Set, NSGA-II, Differential Evolution]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:

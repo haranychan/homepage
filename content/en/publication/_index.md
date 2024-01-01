@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: For japanese papers, "(in Japanese)" will be written at the end of contents.
+subtitle: For japanese papers, "(in Japanese)" is written at the end of contents.
 cms_exclude: true
 
 # View.

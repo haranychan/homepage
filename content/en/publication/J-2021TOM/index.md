@@ -1,6 +1,5 @@
 ---
-title: "Performance Improvement with Prior-validation Framework for
-Algorithmic Configuration on Self-adaptive Differential Evolution"
+title: "Performance Improvement with Prior-validation Framework for Algorithmic Configuration on Self-adaptive Differential Evolution"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

@@ -13,8 +13,7 @@ address:
   # country: United States
 
 summary: JPNSEC Symposium on Evolutionary Computation 2023
-abstract: "I will give a presentation entitled \"Surrogate-assisted Evolutionary Algorithm using
-Pareto-optimal Surrogates Set\" at JPNSEC Symposium on Evolutionary Computation 2023 in Japanese."
+abstract: "I will give a presentation entitled \"Surrogate-assisted Evolutionary Algorithm using Pareto-optimal Surrogates Set\" at JPNSEC Symposium on Evolutionary Computation 2023 in Japanese."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
