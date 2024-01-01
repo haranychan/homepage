@@ -52,7 +52,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/en/publication/J-2024CAIS/slide.pdf'
+url_slides: '/publication/J-2024CAIS/slide.pdf'
 url_source: ''
 url_video: ''
 
