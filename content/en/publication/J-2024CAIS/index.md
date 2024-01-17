@@ -32,10 +32,10 @@ publication_types: ["1"]
 publication: "*Complex & Intelligent Systems*, Accepted" #Vol. , No. , pp. --"
 publication_short: "*Complex & Intell. Syst.*, Accepted" #Vol. , No. , pp. --"
 
-abstract: In the field of expensive optimization, numerous papers have proposed surrogateassisted evolutionary algorithms (SAEAs) for a few thousand or even hundreds of function evaluations. However, in reality, low-cost simulations suffice for a lot of real-world problems, in which the number of function evaluations is moderately restricted, e.g., to several thousands. In such moderately restricted scenario, SAEAs become unnecessarily time-consuming and tend to struggle with premature convergence. In addition, tuning the SAEA parameters becomes impractical under the restricted budgets of function evaluations—in some cases, inadequate configuration may degrade performance instead. In this context, this paper presents a fast and autotunable evolutionary algorithm for solving moderately restricted expensive optimization problems. The presented algorithm is a variant of adaptive differential evolution (DE) algorithms, and is called emulation-based adaptive DE or EBADE. The primary aim of EBADE is to emulate the principle of sample-efficient optimization, such as that in SAEAs, by adaptively tuning the DE parameter configurations. Specifically, similar to Expected Improvement-based sampling, EBADE identifies parameter configurations that may produce expected-to-improve solutions, without using function evaluations. Further, EBADE incepts a multi-population mechanism and assigns a parameter configuration to each subpopulation to estimate the effectiveness of parameter configurations with multiple samples carefully. This subpopulationbased adaptation can help improve the selection accuracy of promising parameter configurations, even when using an expected-to-improve indicator with high uncertainty, by validating with respect to multiple samples. The experimental results demonstrate that EBADE outperforms modern adaptive DEs and is highly competitive compared to SAEAs with a much shorter runtime.
+abstract: In the field of expensive optimization, numerous papers have proposed surrogate-assisted evolutionary algorithms (SAEAs) for a few thousand or even hundreds of function evaluations. However, in reality, low-cost simulations suffice for a lot of real-world problems, in which the number of function evaluations is moderately restricted, e.g., to several thousands. In such moderately restricted scenario, SAEAs become unnecessarily time-consuming and tend to struggle with premature convergence. In addition, tuning the SAEA parameters becomes impractical under the restricted budgets of function evaluations—in some cases, inadequate configuration may degrade performance instead. In this context, this paper presents a fast and auto-tunable evolutionary algorithm for solving moderately restricted expensive optimization problems. The presented algorithm is a variant of adaptive differential evolution (DE) algorithms, and is called emulation-based adaptive DE or EBADE. The primary aim of EBADE is to emulate the principle of sample-efficient optimization, such as that in SAEAs, by adaptively tuning the DE parameter configurations. Specifically, similar to Expected Improvement-based sampling, EBADE identifies parameter configurations that may produce expected-to-improve solutions, without using function evaluations. Further, EBADE incepts a multi-population mechanism and assigns a parameter configuration to each subpopulation to estimate the effectiveness of parameter configurations with multiple samples carefully. This subpopulation-based adaptation can help improve the selection accuracy of promising parameter configurations, even when using an expected-to-improve indicator with high uncertainty, by validating with respect to multiple samples. The experimental results demonstrate that EBADE outperforms modern adaptive DEs and is highly competitive compared to SAEAs with a much shorter runtime.
 
 # Summary. An optional shortened abstract.
-summary: This paper presents a fast and autotunable evolutionary algorithm for solving moderately restricted expensive optimization problems. The presented algorithm is a variant of adaptive differential evolution (DE) algorithms, and is called emulation-based adaptive DE or EBADE.
+summary: This paper presents a fast and auto-tunable evolutionary algorithm for solving moderately restricted expensive optimization problems. The presented algorithm is a variant of adaptive differential evolution (DE) algorithms, and is called emulation-based adaptive DE or EBADE.
 
 tags: [Adaptive Differential Evolution, Prior-validation, Multi-population, Moderately Computationally Expensive Optimization]
 
@@ -48,7 +48,7 @@ links:
   url: 
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/YNU-NakataLab/EBADE'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -84,5 +84,3 @@ slides: ""
 ### Notice
 
 - All materials on this page are author’s versions, not necessarily coincide with final published versions.
-
-- The source code of the proposed method EBADE will be uploaded in the future.
