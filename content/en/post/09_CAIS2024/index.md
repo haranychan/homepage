@@ -39,7 +39,7 @@ categories:
 
 ### Message
 
-Our paper entitled \"[Emulation-based Adaptive Differential Evolution: Fast and Auto-tunable Approach for Moderately Expensive Optimization Problems]({{< relref "/publication/J-2024CAIS/index.md" >}})\" has been accepted to [Complex & Intelligent Systems](https://link.springer.com/journal/40747) journal.
+Our paper entitled \"[Emulation-based adaptive differential evolution: fast and auto-tunable approach for moderately expensive optimization problems]({{< relref "/publication/J-2024CAIS/index.md" >}})\" has been accepted to [Complex & Intelligent Systems](https://link.springer.com/journal/40747) journal.
 
 This paper proposes an adaptive differential evolution (DE) algorithm for moderately expensive optimization problems (moderately EOPs). Our proposed algorithm, an emulation-based adaptive DE (EBADE), emulates the principle of sample-efficient optimization, such as that in surrogate-assisted evolutionary algorithms (SAEAs), by adaptively tuning the DE parameter configurations. Specifically, EBADE beforehand identifies parameter configurations that may produce expected-to-improve solutions, without using function evaluations. Further, EBADE incepts a multi-population mechanism and assigns a parameter configuration to each subpopulation to estimate the effectiveness of parameter configurations with multiple samples carefully. This subpopulation-based adaptation can help improve the selection accuracy of promising parameter configurations, even when using an expected-to-improve indicator with high uncertainty, by validating with respect to multiple samples.
 
