@@ -31,8 +31,8 @@ publishDate: "2024-02-22T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Swarm and Evolutionary Computation*, Vol. 86, Accepted" #Vol. ,No. , pp. --"
-publication_short: "*Swarm Evol. Comput.*, Vol. 86, Accepted" #Vol. , No. , pp. --"
+publication: "*Swarm and Evolutionary Computation*, Vol. 86" #Vol. ,No. , pp. --"
+publication_short: "*Swarm Evol. Comput.*, Vol. 86" #Vol. , No. , pp. --"
 
 abstract: Surrogate-assisted evolutionary algorithms (SAEAs) are a promising approach for solving expensive multiobjective optimization problems, but they often cannot address high-dimensional problems. Although one common approach to overcoming this challenge is to construct reliable surrogates, their accuracy inevitably deteriorates in a high-dimensional search space. Thus, this paper presents a novel SAEA based on scalarization function approximation, which is designed to strengthen its robustness against this deterioration. The proposed algorithm constructs an approximation model for each scalarization function defined in a decomposition-based framework. Each decomposed problem is then solved using multiple independent models trained for its neighbor problems. The intent is to decrease the risk of search performance degradations caused by unreliable approximations and retain the redundancy of the surrogate-assisted search to hedge the risk of over-fitting. Furthermore, each approximation model is adapted to a promising region of its corresponding decomposed problem to reduce the complexity of model fitting given a limited number of training samples. Experimental results show that the proposed algorithm is competitive with state-of-the-art SAEAs adapted for high-dimensional problems.
 
