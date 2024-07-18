@@ -13,7 +13,7 @@ address:
   # country: United States
 
 summary: PPSN 2024 にて発表を行います．
-abstract: "「A Surrogate-assisted Partial Optimization for Expensive Constrained Optimization Problems」というタイトルで，GECCO 2024 にてポスター発表を行います．会場は University of Applied Sciences Upper Austria です．"
+abstract: "「A Surrogate-assisted Partial Optimization for Expensive Constrained Optimization Problems」というタイトルで，PPSN 2024 にてポスター発表を行います．会場は University of Applied Sciences Upper Austria です．"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
