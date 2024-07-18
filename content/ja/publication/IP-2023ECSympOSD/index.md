@@ -1,23 +1,35 @@
 ---
-title: "自己適応型差分進化法におけるアルゴリズム構成の事前検証フレームワークによる性能の向上"
+title: "オープンスペースディスカッション2022実施報告"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
 - 中田 雅也
+- 内種 岳詞
+- 串田 淳一
+- 田中 彰一郎
+- 谷垣 勇輝
+- admin
+- 原田 智広
+- 能島 裕介
 
 # Author notes (optional)
 author_notes:
 - "横浜国立大学"
+- "愛知工業大学"
+- "日本福祉大学"
+- "電気通信大学"
+- "産業技術総合研究所"
 - "横浜国立大学"
+- "東京都立大学"
+- "大阪公立大学"
 
-date: "2021-08-01T00:00:00Z"
-doi: ""
+date: "2023-12-01T00:00:00Z"
+doi: "10.11394/tjpnsec.14.12"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-08-01T00:00:00Z"
+publishDate: "2023-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Refereed Journal Paper;
@@ -26,18 +38,18 @@ publishDate: "2021-08-01T00:00:00Z"
 # 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Preprint / Working Paper;
 # 10 = Invited Paper;
-publication_types: ["1"]
+publication_types: ["10"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*情報処理学会論文誌「数理モデル化と応用」*, Vol. 14, No. 3, pp. 51--67"
-publication_short: "*情報処理学会論文誌（TOM）*, Vol. 14, No. 3, pp. 51--67"
+publication: "*進化計算学会論文誌*, Vol. 14, No. 1, pp. 12--17"
+publication_short: "*進化計算学会論文誌*, Vol. 14, No. 1, pp. 12--17"
 
-abstract: Self-adaptive differential evolution approaches (self-adaptive DEs) often suffer to boost their performances under a limited number of fitness evaluations, since they heavily rely on the trial-and-error process required to adapt algorithmic configurations. In order to enhance the performance in early generations, this paper presents a generalized prior-validation framework for algorithmic configurations, which can be applicable to major variants of self-adaptive DEs that adapt the scaling factor, the crossover rate, and/or the mutation/crossover strategies for each individual. Experimental results on benchmark problems show that the proposed method successfully boosts the performances of jDE, SaDE, and JADE. Thus, the proposed method reveals a possibility of self-adaptive DEs toward computationally-expensive optimization problems where self-adaptive DEs have had a difficulty.
+abstract: On December 16, 2022, Open Space Discussion 2022 (OSD2022) was held as a pre-event of the 2022 Symposium on Evolutionary Computation. This event was motivated to provide an opportunity to share, discuss, and create future directions in evolutionary computation. This paper provides an event report for OSD2022, including a summary of the discussions made as well as participant feedback.
 
 # Summary. An optional shortened abstract.
-summary: This paper presents a generalized prior-validation framework for algorithmic configurations, which can be applicable to major variants of self-adaptive DEs that adapt the scaling factor, the crossover rate, and/or the mutation/crossover strategies for each individual.
+summary: This paper is a report on Open Space Discussion (OSD) held in Evolutionary Computation Symposium 2022.
 
-tags: [Adaptive Differential Evolution, Prior-validation, Computationally Expensive Optimization]
+tags: [Evolutionary Computation, Open Space Technology, Pre-symposium Event]
 
 # Display this page in the Featured widget?
 featured: false
@@ -45,7 +57,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Link
-  url: http://id.nii.ac.jp/1001/00212125/
+  url: https://www.jstage.jst.go.jp/article/tjpnsec/14/1/14_12/_article/-char/ja
 
 url_pdf: ''
 url_code: ''
@@ -82,4 +94,3 @@ slides: ""
 ### 参考
 
 - 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致しない可能性があります．
-- 本ジャーナルは，国内会議である[第131回MPS研究会](../nc-2020mps/)と連動して募集されました．

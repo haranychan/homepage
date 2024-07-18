@@ -40,7 +40,7 @@ summary: This paper presents a generalized prior-validation framework for algori
 tags: [Adaptive Differential Evolution, Prior-validation, Computationally Expensive Optimization]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:

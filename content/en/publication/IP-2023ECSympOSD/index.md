@@ -1,29 +1,29 @@
 ---
-title: "オープンスペースディスカッション2023実施報告"
+title: "Report on Open Space Discussion 2023"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- 原田 智広
-- 木下 貴登
-- 白石 洋輝
-- 高野 諒
-- 田島 友祐
-- 谷垣 勇輝
-- 苗村 伸夫
+- Tomohiro Harada
+- Takato Kinoshita
+- Hiroki Shiraishi
+- Ryo Takano
+- Yusuke Tajima
+- Yuki Tanigaki
+- Nobuo Namura
 - admin
 
 # Author notes (optional)
 author_notes:
-- "埼玉大学"
-- "大阪公立大学"
-- "横浜国立大学"
-- "富山県立大学"
-- "滋賀大学"
-- "産業技術総合研究所"
-- "富士通株式会社"
-- "横浜国立大学"
+- "Saitama University"
+- "Osaka Metropolitan University"
+- "Yokohama National University"
+- "Toyama Prefectural University"
+- "Shiga University"
+- "National Institute of Advanced Industrial Science and Technology"
+- "Fujitsu Limited"
+- "Yokohama National University"
 
 date: "2024-08-15T00:00:00Z"
 doi: ""
@@ -41,8 +41,8 @@ publishDate: "2024-07-18T00:00:00Z"
 publication_types: ["10"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*進化計算学会論文誌*, Vol. 15, No. 1, pp. 11--19"
-publication_short: "*進化計算学会論文誌*, Vol. 15, No. 1, pp. 11--19"
+publication: "*Transactions of the Japanese Society for Evolutionary Computation*, Vol. 15, No. 1, pp. 11--19 (in Japanese)"
+publication_short: "*Trans. Jpn. Soc. Evol. Comput.*, Vol. 15, No. 1, pp. 11--19 (in Japanese)"
 
 abstract: On December 21, 2023, Open Space Discussion 2023 (OSD2023) was held as a 1st-day event of the 2023 Symposium on Evolutionary Computation. This event was motivated to provide an opportunity to share, discuss, and create future directions in evolutionary computation. This paper offers an event report for OSD2023, including a summary of the discussions and participant feedback.
 
@@ -91,6 +91,6 @@ projects:
 slides: ""
 ---
 
-### 参考
+### Notice
 
-- 本サイトの全ての添付ファイルは著者バージョンであり，出版バージョンと一致しない可能性があります．
+- All materials on this page are author’s versions, not necessarily coincide with final published versions.
