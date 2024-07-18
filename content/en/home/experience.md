@@ -25,6 +25,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting Researcher
+    company: Westlake University School of Engineering
+    company_url: 'https://en.westlake.edu.cn/'
+    company_logo: org-Visit
+    location: Hangzhou, China
+    date_start: '2023-10-13'
+    date_end: '2024-03-22'
+    description: |2-
+        I was a visiting researcher at Trustworthy & General Artificial Intelligence Laboratory for half a year. My supervisor was Chair Prof. Yaochu Jin (IEEE Fellow, IEEE CIS President, Member of Academia Europaea)
+
   - title: Research Fellow (DC1) 
     company: the Japan Society for the Promotion of Science (JSPS)
     company_url: 'https://www.jsps.go.jp/english/'
@@ -62,7 +72,7 @@ experience:
         Laboratory: Evolutionary Intelligence Research Group ([Nakata Lab](http://www.nkt.ynu.ac.jp/en/))
 
         Master Thesis: "Adaptive Evolutionary Computation with Prior-Validation" (in Japanese, [PDF](./publication/MasterThesis/paper.pdf))
-        
+
   - title: Undergraduate Student
     company: YNU College of Engineering Science
     company_url: 'https://www.es.ynu.ac.jp/english/'

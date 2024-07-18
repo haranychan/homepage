@@ -1,6 +1,6 @@
 ---
 title: Kei Nishihara
-role: 2nd-year Doctoral Student
+role: 3rd-year Doctoral Student
 avatar_filename: null
 bio: My research interests include evolutionary computation and swarm intelligence.
 interests:
@@ -35,7 +35,7 @@ highlight_name: true
 ---
 <!-- This page is now ***Under Construction***. -->
 
-Kei NISHIHARA received B.Eng. and M.Eng. from Yokohama National University, Yokohama, Japan, in 2020 and 2022, respectively. He is now a doctoral student at Yokohama National University. His current research interest includes <!-- algorithm adaptation in  --> evolutionary computation. He belongs to the Evolutionary Intelligence Research Group ([Nakata Lab.](http://www.nkt.ynu.ac.jp/en/)), which deals with Evolutionary Rule-based Machine Learning (ERL or EML) and Evolutionary Computation (EC). He is also a student member of [IEEE](https://www.ieee.org/) (and [CIS](https://cis.ieee.org/)), [IEEJ](https://www.iee.jp/), [IPSJ](https://www.ipsj.or.jp/), and [JPNSEC](http://www.jpnsec.org/). [JSPS Research Fellow](https://www.jsps.go.jp/english/e-pd/) (DC1).
+Kei NISHIHARA received B.Eng. and M.Eng. from Yokohama National University, Yokohama, Japan, in 2020 and 2022, respectively. He is now a doctoral student at Yokohama National University. His current research interest includes <!-- algorithm adaptation in  --> evolutionary computation. He belongs to the Evolutionary Intelligence Research Group ([Nakata Lab.](http://www.nkt.ynu.ac.jp/en/)), which deals with Evolutionary Rule-based Machine Learning (ERL or EML) and Evolutionary Computation (EC). He was a visiting researcher at [Westlake University](https://en.westlake.edu.cn/) (China) from 2023 Oct. to 2024 Mar. He is also a student member of [IEEE](https://www.ieee.org/) (and [CIS](https://cis.ieee.org/)), [IEEJ](https://www.iee.jp/), [IPSJ](https://www.ipsj.or.jp/), and [JPNSEC](http://www.jpnsec.org/). [JSPS Research Fellow](https://www.jsps.go.jp/english/e-pd/) (DC1).
 
 Qualification: [Applied Information Technology Engineer](https://www.jitec.ipa.go.jp/1_11seido/ap.html), [Fundamental Information Technology Engineer](https://www.jitec.ipa.go.jp/1_11seido/fe.html), [The Third Class Chief Electrical Engineer (a.k.a. The Third Class Electric Works Specialist)](https://www.shiken.or.jp/examination/e-chief03.html), and [The Second Class Qualified Certified Electrician](https://www.shiken.or.jp/examination/e-construction02.html).
 

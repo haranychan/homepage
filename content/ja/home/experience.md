@@ -25,6 +25,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 客員研究員
+    company: 西湖大学（Westlake University）工学院 人工智能与数据科学
+    company_url: 'https://en.westlake.edu.cn/'
+    company_logo: org-Visit
+    location: 中国・杭州
+    date_start: '2023-10-13'
+    date_end: '2024-03-22'
+    description: |2-
+        Yaochu Jin 主席教授（IEEE Fellow, IEEE CIS President, Member of Academia Europaea）主宰の Trustworthy & General Artificial Intelligence Laboratory にて，半年間の滞在研究を行いました．
+
   - title: 特別研究員（DC1）
     company: 日本学術振興会
     company_url: 'https://www.jsps.go.jp/'
@@ -48,7 +58,7 @@ experience:
         研究室: 進化的知能研究室（[中田研究室](http://www.nkt.ynu.ac.jp/)）
 
         学位論文: 
-  
+
   - title: 博士課程前期（修士）
     company: 横浜国立大学大学院 理工学府 数物・電子情報系理工学専攻
     company_url: 'https://www.fse.ynu.ac.jp/'
@@ -63,7 +73,6 @@ experience:
 
         学位論文: 「事前検証型パラメータ適応進化計算」（[PDF](./publication/MasterThesis/paper.pdf)）
 
-        
   - title: 学部生
     company: 横浜国立大学 理工学部 数物・電子情報系学科
     company_url: 'https://www.es.ynu.ac.jp/'

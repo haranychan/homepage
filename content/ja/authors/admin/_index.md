@@ -1,6 +1,6 @@
 ---
 title: 西原 慧
-role: 博士課程後期 2年
+role: 博士課程後期 3年
 avatar_filename: null
 bio: 進化計算の研究に従事しています．
 interests:
@@ -35,7 +35,7 @@ highlight_name: true
 ---
 <!-- This page is now ***Under Construction***. -->
 
-2020年 横浜国立大学 理工学部 数物・電子情報系学科 卒業．2022年 同大学院 理工学府 数物・電子情報系理工学専攻 博士課程前期 修了．現在，同 博士課程後期 在学中．進化的知能研究室（[中田研究室](http://www.nkt.ynu.ac.jp/)）所属．修士（工学）．
+2020年 横浜国立大学 理工学部 数物・電子情報系学科 卒業．2022年 同大学院 理工学府 数物・電子情報系理工学専攻 博士課程前期 修了．現在，同 博士課程後期 在学中．進化的知能研究室（[中田研究室](http://www.nkt.ynu.ac.jp/)）所属．2023年10月-2024年3月 [西湖大学](https://en.westlake.edu.cn/)（中国）客員研究員．修士（工学）．
 
 進化計算の研究に従事．<!-- 特に，アルゴリズムとハイパーパラメータの，問題や探索状況への適応に興味を持つ． -->[IEEE](https://www.ieee.org/)（+ [CIS](https://cis.ieee.org/)），[電気学会](https://www.iee.jp/)，[情報処理学会](https://www.ipsj.or.jp/)，[進化計算学会](http://www.jpnsec.org/) 各学生会員．
 
