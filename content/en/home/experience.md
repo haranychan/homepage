@@ -33,7 +33,7 @@ experience:
     date_start: '2023-10-13'
     date_end: '2024-03-22'
     description: |2-
-        I was a visiting researcher at Trustworthy & General Artificial Intelligence Laboratory for half a year. My supervisor was Chair Prof. Yaochu Jin (IEEE Fellow, IEEE CIS President, Member of Academia Europaea)
+        I was a visiting researcher at Trustworthy & General Artificial Intelligence Laboratory for about half a year. My supervisor was Chair Prof. Yaochu Jin (IEEE Fellow, IEEE CIS President, Member of Academia Europaea)
 
   - title: Research Fellow (DC1) 
     company: the Japan Society for the Promotion of Science (JSPS)

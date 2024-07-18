@@ -33,7 +33,7 @@ experience:
     date_start: '2023-10-13'
     date_end: '2024-03-22'
     description: |2-
-        Yaochu Jin 主席教授（IEEE Fellow, IEEE CIS President, Member of Academia Europaea）主宰の Trustworthy & General Artificial Intelligence Laboratory にて，半年間の滞在研究を行いました．
+        Yaochu Jin 主席教授（IEEE Fellow, IEEE CIS President, Member of Academia Europaea）主宰の Trustworthy & General Artificial Intelligence Laboratory にて，約半年間の滞在研究を行いました．
 
   - title: 特別研究員（DC1）
     company: 日本学術振興会
