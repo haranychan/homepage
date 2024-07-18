@@ -1,35 +1,35 @@
 ---
-title: "オープンスペースディスカッション2023実施報告"
+title: "オープンスペースディスカッション2022実施報告"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- 原田 智広
-- 木下 貴登
-- 白石 洋輝
-- 高野 諒
-- 田島 友祐
+- 中田 雅也
+- 内種 岳詞
+- 串田 淳一
+- 田中 彰一郎
 - 谷垣 勇輝
-- 苗村 伸夫
 - admin
+- 原田 智広
+- 能島 裕介
 
 # Author notes (optional)
 author_notes:
-- "埼玉大学"
-- "大阪公立大学"
 - "横浜国立大学"
-- "富山県立大学"
-- "滋賀大学"
+- "愛知工業大学"
+- "日本福祉大学"
+- "電気通信大学"
 - "産業技術総合研究所"
-- "富士通株式会社"
 - "横浜国立大学"
+- "東京都立大学"
+- "大阪公立大学"
 
-date: "2024-08-15T00:00:00Z"
-doi: ""
+date: "2023-12-01T00:00:00Z"
+doi: "10.11394/tjpnsec.14.12"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-18T00:00:00Z"
+publishDate: "2023-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Refereed Journal Paper;
@@ -41,15 +41,15 @@ publishDate: "2024-07-18T00:00:00Z"
 publication_types: ["10"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*進化計算学会論文誌*, Vol. 15, No. 1, pp. 11--19"
-publication_short: "*進化計算学会論文誌*, Vol. 15, No. 1, pp. 11--19"
+publication: "*進化計算学会論文誌*, Vol. 14, No. 1, pp. 12--17"
+publication_short: "*進化計算学会論文誌*, Vol. 14, No. 1, pp. 12--17"
 
-abstract: On December 21, 2023, Open Space Discussion 2023 (OSD2023) was held as a 1st-day event of the 2023 Symposium on Evolutionary Computation. This event was motivated to provide an opportunity to share, discuss, and create future directions in evolutionary computation. This paper offers an event report for OSD2023, including a summary of the discussions and participant feedback.
+abstract: On December 16, 2022, Open Space Discussion 2022 (OSD2022) was held as a pre-event of the 2022 Symposium on Evolutionary Computation. This event was motivated to provide an opportunity to share, discuss, and create future directions in evolutionary computation. This paper provides an event report for OSD2022, including a summary of the discussions made as well as participant feedback.
 
 # Summary. An optional shortened abstract.
-summary: This paper is a report on Open Space Discussion (OSD) held in Evolutionary Computation Symposium 2023.
+summary: This paper is a report on Open Space Discussion (OSD) held in Evolutionary Computation Symposium 2022.
 
-tags: [Evolutionary Computation, Open Space Technology, Symposium Event]
+tags: [Evolutionary Computation, Open Space Technology, Pre-symposium Event]
 
 # Display this page in the Featured widget?
 featured: false
@@ -57,7 +57,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Link
-  url: 
+  url: https://www.jstage.jst.go.jp/article/tjpnsec/14/1/14_12/_article/-char/ja
 
 url_pdf: ''
 url_code: ''

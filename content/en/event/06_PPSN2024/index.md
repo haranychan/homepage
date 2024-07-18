@@ -60,7 +60,7 @@ projects:
 
 All accepted papers will be presented as poster presentations in PPSN.
 
-My presentation is scheduled in the Poster Session 3 (Sep. 16, Mon, 15:30-17:00 CEST) at this moment.
+Our presentation is scheduled in the Poster Session 3 (Sep. 16, Mon, 15:30-17:00 CEST) at this moment.
 
 Poster presentations are good chances to have detailed discussions and I'm looking forward to it!
 
