@@ -26,6 +26,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: 特別研究員(DC)の採用最終年次における研究奨励金特別手当の支給
+  url: "https://www.jsps.go.jp/j-pd/pd_oubo.html"
+  date_end: "2025-03-31"
+  date_start: "2024-04-01"
+  organization: (独) 日本学術振興会
+  organization_url: "https://www.jsps.go.jp/"
+  certificate_url: ""
+  description: ""
+
 - title: 国際学術交流奨励事業（国際会議等出席・海外調査研究等）
   url: "https://global.ynu.ac.jp/studyabroad/encourage/"
   date_end: ""

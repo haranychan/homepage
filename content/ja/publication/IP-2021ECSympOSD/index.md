@@ -59,7 +59,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Link
-  url: https://www.jstage.jst.go.jp/article/tjpnsec/13/1/13_1/_article/-char/ja/
+  url: https://www.jstage.jst.go.jp/article/tjpnsec/13/1/13_1/_article/-char/ja
 
 url_pdf: ''
 url_code: ''

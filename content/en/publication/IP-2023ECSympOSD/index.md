@@ -25,8 +25,8 @@ author_notes:
 - "Fujitsu Limited"
 - "Yokohama National University"
 
-date: "2024-08-15T00:00:00Z"
-doi: ""
+date: "2024-07-31T00:00:00Z"
+doi: "10.11394/tjpnsec.15.11"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-18T00:00:00Z"
@@ -57,7 +57,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Link
-  url: 
+  url: https://www.jstage.jst.go.jp/article/tjpnsec/15/1/15_11/_article/-char/en
 
 url_pdf: ''
 url_code: ''

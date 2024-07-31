@@ -26,6 +26,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: Special allowance for monthly stipend in the final year of employment as a Research Fellow (DC)
+  url: "https://www.jsps.go.jp/english/e-pd/"
+  date_end: "2025-03-31"
+  date_start: "2024-04-01"
+  organization: The Japan Society for the Promotion of Science (JSPS)
+  organization_url: "https://www.jsps.go.jp/english/"
+  certificate_url: ""
+  description: ""
+
 - title: YNU International Academic Exchange and Promotion Projects (Attending International Conferences･Conducting Overseas Research and/or Study)
   url: "https://global.ynu.ac.jp/studyabroad/encourage/"
   date_end: ""

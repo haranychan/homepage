@@ -29,8 +29,8 @@ publishDate: "2024-07-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Conference on Parallel Problem Solving from Nature (PPSN)*, pp. --"
-publication_short: "*Proc. Int. Conf. Parallel Probl. Solving Nat. (PPSN)*, pp. --"
+publication: "*International Conference on Parallel Problem Solving from Nature (PPSN)*, accepted" #pp. --
+publication_short: "*Proc. Int. Conf. Parallel Probl. Solving Nat. (PPSN)*, accepted" #pp. --
 
 abstract: Surrogate-assisted evolutionary algorithms (SAEAs) are gradually gaining attention as a method for solving expensive optimization problems with inequality constraints. Most SAEAs construct a surrogate model for each objective/constraint function and then aggregate approximation functions of constraints to estimate the feasibility of unevaluated solutions. However, because of the aggregation, the differences in the scales among constraints are ignored. Constraints with smaller scales do not benefit from constraint handling techniques as much as larger constraints, while the effects of handling constraints with larger scales scatter to the other many constraints. This results in an inefficient constraint optimization. Accordingly, this work proposes a new SAEA that partially optimizes each objective/constraint, namely surrogate-assisted partial optimization (SAPO). Solutions with better values of objective/constraint are selected from the evaluated solutions as the parent solutions and a focused objective/constraint is independently optimized using surrogate models one by one. Experimental results reveal the superiority of SAPO compared to the state-of-the-art SAEAs on a single-objective optimization problem suite with inequality constraints under an expensive optimization scenario.
 
