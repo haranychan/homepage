@@ -28,7 +28,7 @@ experience:
   - title: Visiting Researcher
     company: Westlake University School of Engineering
     company_url: 'https://en.westlake.edu.cn/'
-    company_logo: logo-WU2
+    company_logo: logo-WU
     location: Hangzhou, China
     date_start: '2023-10-13'
     date_end: '2024-03-22'
@@ -38,7 +38,7 @@ experience:
   - title: Research Fellow (DC1) 
     company: the Japan Society for the Promotion of Science (JSPS)
     company_url: 'https://www.jsps.go.jp/english/'
-    company_logo: org-DC1
+    company_logo: logo-DC
     location: Tokyo, Japan
     date_start: '2022-04-01'
     date_end: ''
@@ -48,7 +48,7 @@ experience:
   - title: Doctoral Student
     company: YNU Graduate School of Engineering Science
     company_url: 'https://www.fse.ynu.ac.jp/english/'
-    company_logo: org-DEng
+    company_logo: logo-YNU
     location: Yokohama, Japan
     date_start: '2022-04-01'
     date_end: ''
@@ -62,7 +62,7 @@ experience:
   - title: Master's Degree Student
     company: YNU Graduate School of Engineering Science
     company_url: 'https://www.fse.ynu.ac.jp/english/'
-    company_logo: org-MEng
+    company_logo: logo-YNU
     location: Yokohama, Japan
     date_start: '2020-04-01'
     date_end: '2022-03-31'
@@ -76,7 +76,7 @@ experience:
   - title: Undergraduate Student
     company: YNU College of Engineering Science
     company_url: 'https://www.es.ynu.ac.jp/english/'
-    company_logo: org-BEng
+    company_logo: logo-YNU
     location: Yokohama, Japan
     date_start: '2016-04-01'
     date_end: '2020-03-31'
@@ -90,7 +90,7 @@ experience:
   - title: High School
     company: Eiko Gakuen High School
     company_url: 'https://ekh.jp/en/'
-    company_logo: org-HS
+    company_logo: logo-EIKO
     location: Kamakura (near station - Ofuna), Japan
     date_start: '2012-04-01'
     date_end: '2015-03-31'
