@@ -28,7 +28,7 @@ experience:
   - title: Visiting Researcher
     company: Westlake University School of Engineering
     company_url: 'https://en.westlake.edu.cn/'
-    company_logo: logo-WU2.png
+    company_logo: logo-WU2
     location: Hangzhou, China
     date_start: '2023-10-13'
     date_end: '2024-03-22'
