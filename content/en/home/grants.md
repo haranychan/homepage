@@ -107,13 +107,13 @@ item:
   certificate_url: ""
   description: "supported for the attendance at IEEE CEC 2021"
 
-- title: Grants for Sending Researchers Abroad
+- title: Overseas Travel Grants for Researchers
   url: "https://corporate.murata.com/ja-jp/group/zaidan/requirement"
   date_end: ""
   date_start: "2020-06-01"
   organization: The Murata Science Foundation
   organization_url: "https://corporate.murata.com/ja-jp/group/zaidan"
-  certificate_url: "https://corporate.murata.com/ja-jp/group/zaidan/recipient/oversea/2020"
+  certificate_url: "https://corporate.murata.com/ja-jp/group/zaidan/requirement/recipient/oversea/2020"
   description: "supported for the attendance at IEEE WCCI(CEC) 2020"
 
 - title: Nissin Electric Group Scholarship Student
