@@ -26,6 +26,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: Overseas Travel Grants
+  url: "https://www.taf.or.jp/grant-b/02/"
+  date_end: ""
+  date_start: "2024-08-20"
+  organization: The Telecommunications Advancement Foundation
+  organization_url: "https://www.taf.or.jp/"
+  certificate_url: ""
+  description: "supported for the attendance at PPSN 2024"
+
 - title: Special allowance for monthly stipend in the final year of employment as a Research Fellow (DC)
   url: "https://www.jsps.go.jp/english/e-pd/"
   date_end: "2025-03-31"

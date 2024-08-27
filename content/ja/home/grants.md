@@ -26,6 +26,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: 海外渡航旅費援助
+  url: "https://www.taf.or.jp/grant-b/02/"
+  date_end: ""
+  date_start: "2024-08-20"
+  organization: (公財) 電気通信普及財団
+  organization_url: "https://www.taf.or.jp/"
+  certificate_url: ""
+  description: "PPSN 2024 の参加に関して助成いただきました．"
+
 - title: 特別研究員(DC)の採用最終年次における研究奨励金特別手当の支給
   url: "https://www.jsps.go.jp/j-pd/pd_oubo.html"
   date_end: "2025-03-31"
