@@ -32,7 +32,7 @@ item:
   date_start: "2024-08-20"
   organization: The Telecommunications Advancement Foundation
   organization_url: "https://www.taf.or.jp/"
-  certificate_url: ""
+  certificate_url: "https://www.taf.or.jp/files/2181/223648777.pdf"
   description: "supported for the attendance at PPSN 2024"
 
 - title: Special allowance for monthly stipend in the final year of employment as a Research Fellow (DC)

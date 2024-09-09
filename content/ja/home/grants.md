@@ -32,7 +32,7 @@ item:
   date_start: "2024-08-20"
   organization: (公財) 電気通信普及財団
   organization_url: "https://www.taf.or.jp/"
-  certificate_url: ""
+  certificate_url: "https://www.taf.or.jp/files/2181/223648777.pdf"
   description: "PPSN 2024 の参加に関して助成いただきました．"
 
 - title: 特別研究員(DC)の採用最終年次における研究奨励金特別手当の支給
