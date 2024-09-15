@@ -42,7 +42,7 @@ item:
   organization: The Japan Society for the Promotion of Science (JSPS)
   organization_url: "https://www.jsps.go.jp/english/"
   certificate_url: ""
-  description: ""
+  description: "The efforts made during the doctoral course was highly appreciated."
 
 - title: YNU International Academic Exchange and Promotion Projects (Attending International Conferences･Conducting Overseas Research and/or Study)
   url: "https://global.ynu.ac.jp/studyabroad/encourage/"
@@ -70,6 +70,15 @@ item:
   organization_url: "https://global.ynu.ac.jp/en/"
   certificate_url: ""
   description: "supported for the attendance at IEEE SSCI 2022"
+
+- title: Exemption from Return for Particularly Outstanding Achievement (Full Amount)
+  url: "https://www.jasso.go.jp/shogakukin/saiyochu/gyosekimenjo/index.html"
+  date_end: ""
+  date_start: "2022-07-01"
+  organization: The Japan Student Services Organization (JASSO)
+  organization_url: "https://www.jasso.go.jp/en/index.html"
+  certificate_url: ""
+  description: "The efforts made during the master course was highly appreciated."
 
 - title: Teijin Kumura Scholarship Student
   url: "https://www.teijin.co.jp/eco/scholarship/scholarship/scholarship.html"

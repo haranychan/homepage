@@ -42,7 +42,8 @@ item:
   organization: (独) 日本学術振興会
   organization_url: "https://www.jsps.go.jp/"
   certificate_url: ""
-  description: ""
+  description: "博士課程後期での取り組みが評価されました
+  ．"
 
 - title: 国際学術交流奨励事業（国際会議等出席・海外調査研究等）
   url: "https://global.ynu.ac.jp/studyabroad/encourage/"
@@ -70,6 +71,15 @@ item:
   organization_url: "https://global.ynu.ac.jp/"
   certificate_url: ""
   description: "IEEE SSCI 2022 の参加に関して助成いただきました．"
+
+  - title: 特に優れた業績による返還免除制度 全額免除
+  url: "https://www.jasso.go.jp/shogakukin/saiyochu/gyosekimenjo/index.html"
+  date_end: ""
+  date_start: "2022-07-01"
+  organization: (独) 日本学生支援機構
+  organization_url: "https://www.jasso.go.jp/"
+  certificate_url: ""
+  description: "博士課程前期（修士）での取り組みが評価されました．"
 
 - title: 帝人久村奨学金 奨学生
   url: "https://www.teijin.co.jp/eco/scholarship/scholarship/scholarship.html"
