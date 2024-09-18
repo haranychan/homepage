@@ -54,7 +54,7 @@ url_code: 'https://github.com/YNU-NakataLab/SADE-ATDSC'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/publication/IC-2022/slide.pdf'
+url_slides: '/publication/IC-2022SSCI/slide.pdf'
 url_source: ''
 url_video: ''
 
