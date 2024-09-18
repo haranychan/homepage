@@ -50,9 +50,9 @@ links:
   url: https://ppsn2024.fh-ooe.at
  
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/YNU-NakataLab/SAPO'
 url_dataset: ''
-url_poster: ''
+url_poster: '/publication/IC-2024PPSN/poster_portrait.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''

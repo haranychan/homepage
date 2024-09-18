@@ -50,11 +50,11 @@ links:
   url: https://ieeessci2022.org
  
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/YNU-NakataLab/SADE-ATDSC'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: '/publication/IC-2022/slide.pdf'
 url_source: ''
 url_video: ''
 
