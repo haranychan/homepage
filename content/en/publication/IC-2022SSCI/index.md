@@ -14,7 +14,7 @@ author_notes:
 - "Yokohama National University"
 
 date: "2022-12-04T00:00:00Z"
-doi: "10.1109/CEC45853.2021.9504997"
+doi: "10.1109/SSCI51031.2022.10022105"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-12-04T00:00:00Z"

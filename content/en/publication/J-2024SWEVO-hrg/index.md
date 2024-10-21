@@ -1,5 +1,5 @@
 ---
-title: "Evolutionary Multiobjective Optimization Assisted by Scalarization Function Approximation for High-Dimensional Expensive Problems"
+title: "Evolutionary multiobjective optimization assisted by scalarization function approximation for high-dimensional expensive problems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
