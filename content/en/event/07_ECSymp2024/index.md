@@ -22,7 +22,7 @@ date_end: "2024-12-22T14:20:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2024-12-20T00:00:00Z"
+publishDate: "2024-12-19T00:00:00Z"
 
 authors: []
 tags: [Surrogate-assisted Evolutionary Algorithm, Approximation Accuracy, Training Data Boundary, Radial Basis Function Network, Gaussian Process, Differential Evolution, Particle Swarm Optimization]
