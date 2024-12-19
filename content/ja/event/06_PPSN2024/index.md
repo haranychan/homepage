@@ -1,7 +1,7 @@
 ---
 title: PPSN 2024
 
-event: International Conference on Parallel Problem Solving from Nature (PPSN 2024)
+event: International Conference on Parallel Problem Solving from Nature 2024 (PPSN 2024)
 event_url: https://ppsn2024.fh-ooe.at
 
 location: University of Applied Sciences Upper Austria, Hagenberg im Mühlkreis, Austria

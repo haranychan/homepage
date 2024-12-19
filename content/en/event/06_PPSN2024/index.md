@@ -1,7 +1,7 @@
 ---
 title: PPSN 2024
 
-event: International Conference on Parallel Problem Solving from Nature (PPSN 2024)
+event: International Conference on Parallel Problem Solving from Nature 2024 (PPSN 2024)
 event_url: https://ppsn2024.fh-ooe.at
 
 location: University of Applied Sciences Upper Austria, Hagenberg im Mühlkreis, Austria
@@ -12,7 +12,7 @@ address:
   # postcode: '94305'
   # country: United States
 
-summary: International Conference on Parallel Problem Solving from Nature (PPSN 2024)
+summary: International Conference on Parallel Problem Solving from Nature 2024 (PPSN 2024)
 abstract: "I will give a poster presentation entitled \"A Surrogate-assisted Partial Optimization for Expensive Constrained Optimization Problems\" at PPSN 2024, a refereed international conference."
 
 # Talk start and end times.

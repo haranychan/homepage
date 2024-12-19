@@ -47,7 +47,6 @@ links:
 - name: Link (Conference)
   url: http://www.jpnsec.org/symposium202203.html
 
-
 url_pdf: ''
 url_code: ''
 url_dataset: ''

@@ -1,12 +1,12 @@
 ---
-title: "Evolutionary Neural Architecture Search Considering Structural Diversity in Deep Learning Models"
+title: "Analysis and Suppression of Negative Effect of Declining Approximation Accuracy near Training Data Boundaries on the Performance of Surrogate-assisted Evolutionary Algorithms"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Nobuki Hariya
 - admin
+- Takaya Miura
 - Masaya Nakata
 
 # Author notes (optional)
@@ -15,11 +15,11 @@ author_notes:
 - "Yokohama National University"
 - "Yokohama National University"
 
-date: "2023-09-06T00:00:00Z"
+date: "2024-12-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-06T00:00:00Z"
+publishDate: "2024-12-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Refereed Journal Paper;
@@ -31,15 +31,15 @@ publishDate: "2023-09-06T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IPSJ Forum on Information Technology*, pp. 79--85 (in Japanese)"
-publication_short: "*Proc. Forum Inf. Technol.*, pp. 79--85 (in Japanese)"
+publication: "*JPNSEC Symposium on Evolutionary Computation*, pp. 233--240 (in Japanese)"
+publication_short: "*Proc. Symp. Evol. Comput.*, pp. 233--240 (in Japanese)"
 
 abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [Evolutionary Neural Architecture Search]
+tags: [Surrogate-assisted Evolutionary Algorithm, Approximation Accuracy, Training Data Boundary, Radial Basis Function Network, Gaussian Process, Differential Evolution, Particle Swarm Optimization]
 
 # Display this page in the Featured widget?
 featured: false
@@ -47,7 +47,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Link (Conference)
-  url: https://www.ipsj.or.jp/event/fit/fit2023/index.html
+  url: http://www.jpnsec.org/symposium202403.html
 
 url_pdf: ''
 url_code: ''
